@@ -6,7 +6,7 @@ http://iptvtree.net:8080/Line1051/f4fffd47/4853
 http://iptvtree.net:8080/Line1051/f4fffd47/74893
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Champions League",IN: Sony TEN 2 HD
 http://iptvtree.net:8080/Line1051/f4fffd47/56190
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Spor1",Sony Ten 3 HD(setAuto)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Sony Ten 3 HD(setAuto)
 http://14.192.144.14:8000/play/a00f/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport ESPN
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3571
