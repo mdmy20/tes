@@ -346,7 +346,7 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4390
 
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY KUYY",Sony BBC EarHD(setAuto)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY KUY",Sony BBC EarHD(setAuto)
 http://14.192.144.14:8000/play/a01n/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY KUY",Sony MAX HD(setAuto) 
 http://14.192.144.14:8000/play/a0gi/index.m3u8
