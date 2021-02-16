@@ -1,48 +1,75 @@
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SIX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Champions League",IN: Sony SIX HD
+http://iptvtree.net:8080/Line1051/f4fffd47/4853
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Champions League",IN: Sony TEN 1 HD
+http://iptvtree.net:8080/Line1051/f4fffd47/74893
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Champions League",IN: Sony TEN 2 HD
+http://iptvtree.net:8080/Line1051/f4fffd47/56190
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Spor1",Sony Ten 3 HD(setAuto)
+http://14.192.144.14:8000/play/a00f/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport ESPN
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3571
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport 2
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3572
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport 3
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3573
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport 1
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3574
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",SkynetSport
+http://4digital.ddns.net:11223/ts/0
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",CCTV5
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4389
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",CCTV5+
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4390
 #EXTINF:-1 group-title="Sport",MY Astro bEIN MAX
 https://vewvew.com:8443/mamana/12345/227136
-#EXTINF:-1 group-title="Sport",FR: RMC SPORT 1 HD
+
+#EXTINF:-1 group-title="Champions League",FR: RMC SPORT 1 HD
 http://iptvnow.me:8080/jajaban/12345/88344
-#EXTINF:-1 group-title="Sport",FR: RMC SPORT 2 HD
+#EXTINF:-1 group-title="Champions League",FR: RMC SPORT 2 HD
 http://iptvnow.me:8080/jajaban/12345/88345
-#EXTINF:-1 group-title="Sport",FR: RMC SPORT 3 HD
+#EXTINF:-1 group-title="Champions League",FR: RMC SPORT 3 HD
 http://iptvnow.me:8080/jajaban/12345/88346
-#EXTINF:-1 group-title="Sport",FR: RMC SPORT 4 HD
+#EXTINF:-1 group-title="Champions League",FR: RMC SPORT 4 HD
 http://iptvnow.me:8080/jajaban/12345/88347
-#EXTINF:-1 group-title="Sport",UK | BT SPORT 1 FHD
+#EXTINF:-1 group-title="Champions League",UK | BT SPORT 1 FHD
 http://iptvnow.me:8080/jajaban/12345/78765
-#EXTINF:-1 group-title="Sport",UK | BT SPORT 1 HD
+#EXTINF:-1 group-title="Champions League",UK | BT SPORT 1 HD
 http://iptvnow.me:8080/jajaban/12345/78766
-#EXTINF:-1 group-title="Sport",UK | BT SPORT 2 FHD
+#EXTINF:-1 group-title="Champions League",UK | BT SPORT 2 FHD
 http://iptvnow.me:8080/jajaban/12345/78767
-#EXTINF:-1 group-title="Sport",UK | BT SPORT 2 HD
+#EXTINF:-1 group-title="Champions League",UK | BT SPORT 2 HD
 http://iptvnow.me:8080/jajaban/12345/78768
-#EXTINF:-1 group-title="Sport",UK | BT SPORT 3 HD
+#EXTINF:-1 group-title="Champions League",UK | BT SPORT 3 HD
 http://iptvnow.me:8080/jajaban/12345/78769
-#EXTINF:-1 group-title="Sport",UK | BT SPORT 3 HD
+#EXTINF:-1 group-title="Champions League",UK | BT SPORT 3 HD
 http://iptvnow.me:8080/jajaban/12345/78770
-#EXTINF:-1 group-title="Sport",UK | BT SPORT ESPN
+#EXTINF:-1 group-title="Champions League",UK | BT SPORT ESPN
 http://iptvnow.me:8080/jajaban/12345/78771
-#EXTINF:-1 group-title="Sport",UK | BT Sport ESPN HD
+#EXTINF:-1 group-title="Champions League",UK | BT Sport ESPN HD
 http://iptvnow.me:8080/jajaban/12345/78772
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SIX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sport",IN: Sony SIX HD
-http://iptvtree.net:8080/Line1051/f4fffd47/4853
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sport",IN: Sony TEN 1 HD
-http://iptvtree.net:8080/Line1051/f4fffd47/74893
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sport",IN: Sony TEN 2 HD
-http://iptvtree.net:8080/Line1051/f4fffd47/56190
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sport",IN: Sony TEN 3
-#EXTINF:-1 group-title="Sport",ES: MOVISTAR LIGA DE CAMPEONES HD
+#EXTINF:-1 group-title="Champions League",ES: MOVISTAR LIGA DE CAMPEONES HD
 http://iptvnow.me:8080/jajaban/12345/86849
-#EXTINF:-1 group-title="Sport",ES:MOVISTAR LIGA DE CAMPEONES H265
+#EXTINF:-1 group-title="Champions League",ES:MOVISTAR LIGA DE CAMPEONES H265
 http://iptvnow.me:8080/jajaban/12345/86850
-#EXTINF:-1 group-title="Sport",ES: LIGA DE CAMPEONES 1
+#EXTINF:-1 group-title="Champions League",ES: LIGA DE CAMPEONES 1
 http://iptvnow.me:8080/jajaban/12345/86851
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport ESPN
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3914
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport 2
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3915
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport 3
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3916
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport 1
 #EXTINF:-1 group-title="Sport",ES: LIGA DE CAMPEONES 2
 http://iptvnow.me:8080/jajaban/12345/86852
 #EXTINF:-1 group-title="Sport",DE | Sky Sport 1 HD
 http://iptvnow.me:8080/jajaban/12345/91592
-#EXTINF:-1 group-title="Sport",DE | Sky Sport 2 HD
+#EXTINF:-1 group-title="Champions League",DE | Sky Sport 2 HD
 http://iptvnow.me:8080/jajaban/12345/91593
+
+
 #EXTINF:-1 group-title="Sport",USA TUDN
 https://vewvew.com:8443/mamana/12345/229376
 #EXTINF:-1 group-title="Sport",World Bein_Sport_1_Mena
@@ -97,10 +124,6 @@ https://vewvew.com:8443/mamana/12345/229669
 http://iptvnow.me:8080/jajaban/12345/93906
 
 
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SkynetSport
-http://4digital.ddns.net:11223/ts/0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Supersports 1 
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/120
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Supersports 2 
@@ -113,14 +136,18 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/123
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/163
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Arena
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/164
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Viasat Sport East
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3221
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Астрахань.Ru Sport
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3235
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Астрахань.Ru Sport
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3236
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Астрахань.Ru Sport
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3237
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SPORT TV +
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/825
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SPORT TV 1 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/826
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SPORT TV 2
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/831
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SPORT TV 3 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/832
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SPORT TV 4
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/837
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SPORT TV 5 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/838
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NOW SPORTS
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3460
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",FOX Sport 1
@@ -133,32 +160,6 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3547
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3548
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ELEVEN SPORTS PLUS
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3549
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ELTA体育1
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3550
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ELTA体育2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3551
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ELTA体育3
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3552
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Z频道
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3553
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",皇马足球
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3554
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",博斯无限2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3555
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",博斯高球1
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3556
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",博斯高球2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3557
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",博斯魅力
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3558
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",TRACE Sport Stars
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3559
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",智林体育
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3560
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",时尚运动X
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3561
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",欧洲体育
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3562
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Edge Sport
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3563
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Ginx电竞
@@ -167,7 +168,7 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3564
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3565
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NOW SPORTS
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3566
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",jsport1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",jChampions League
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3567
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",jsport2
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3568
@@ -175,14 +176,7 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3568
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3569
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",jsport4
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3570
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",BT Sport ESPN
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3571
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",BT Sport 2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3572
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",BT Sport 3
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3573
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",BT Sport 1
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3574
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Sky Sport 2
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3575
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Sky Sports 1
@@ -225,13 +219,6 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3831
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3859
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Fight network
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3890
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",BT Sport ESPN
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3914
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",BT Sport 2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3915
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",BT Sport 3
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3916
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",BT Sport 1
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3917
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",IFC
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3918
@@ -281,7 +268,7 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3964
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3965
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Big Ten Network
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3966
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",jsport1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",jChampions League
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3741
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",jsport2
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3742
@@ -353,14 +340,26 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4202
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4203
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ASSP4_HD
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4204
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",CCTV5
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4389
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",CCTV5+
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4390
-
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony BBC EarHD(setAuto)
 http://14.192.144.14:8000/play/a01n/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",BBC Earth HD
+https://nonton.site:8443/novi/novi123/37449
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Nat Geo People HD
+https://nonton.site:8443/novi/novi123/455
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",BBC Lifestyle
+http://14.192.144.14:8000/play/a01n/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Asia
+https://nonton.site:8443/novi/novi123/779
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Channel HD
+https://nonton.site:8443/novi/novi123/165
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Science HD
+https://nonton.site:8443/novi/novi123/408
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Shed
+https://nonton.site:8443/novi/novi123/333
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Turbo
+https://nonton.site:8443/novi/novi123/462
+#EXTINF:-1   tvg-logo="https://i.postimg.c
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",TV8
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/155
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",TV1
@@ -380,6 +379,58 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/194
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/165
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Fashion tv
 https://bozztv.com:443/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
+https://nonton.site:8443/novi/novi123/37450
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",NGW HD
+https://nonton.site:8443/novi/novi123/37388
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",NAT GEO HD
+https://nonton.site:8443/novi/novi123/37389
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",DISCOVERY HD
+https://nonton.site:8443/novi/novi123/37390
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",DISCOVERY ASIA
+https://nonton.site:8443/novi/novi123/37391
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",DISC SCI HD
+https://nonton.site:8443/novi/novi123/37392
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",HISTORY HD
+https://nonton.site:8443/novi/novi123/37393
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",ANIMAL PLANET HD
+https://nonton.site:8443/novi/novi123/37394
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Blue Ant Entertainment
+https://nonton.site:8443/novi/novi123/37451
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Blue Ant Extreme
+https://nonton.site:8443/novi/novi123/37452
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Boomerang HD
+https://nonton.site:8443/novi/novi123/37453
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Cinema World HD
+https://nonton.site:8443/novi/novi123/37454
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Colors Cineplex
+https://nonton.site:8443/novi/novi123/37455
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Dreamworks HD
+https://nonton.site:8443/novi/novi123/37456
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",FOX Life HD
+https://nonton.site:8443/novi/novi123/37457
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",FOX Movies HD
+https://nonton.site:8443/novi/novi123/37458
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Jaya Max
+https://nonton.site:8443/novi/novi123/37459
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",MTV Asia
+https://nonton.site:8443/novi/novi123/37460
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",RTM Sports
+https://nonton.site:8443/novi/novi123/37461
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Paramount Channel
+https://nonton.site:8443/novi/novi123/37462
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony SAB
+https://nonton.site:8443/novi/novi123/37463
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony SetMAX
+https://nonton.site:8443/novi/novi123/37464
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony TV
+https://nonton.site:8443/novi/novi123/37465
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Travel Channel HD
+https://nonton.site:8443/novi/novi123/37466
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Astro Rania HD
+https://nonton.site:8443/novi/novi123/37467
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Astro Aura HD
+https://nonton.site:8443/novi/novi123/37468
+
 
 
 
@@ -1115,7 +1166,7 @@ http://thaicable.myftp.org:8000/live/infosat/2020/76.ts
 http://thaicable.myftp.org:8000/live/infosat/2020/77.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Thailand",LFCTV(setAuto)
 http://thaicable.myftp.org:8000/live/infosat/2020/78.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Thailand",Skysport1(setAuto)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Thailand",SkyChampions League(setAuto)
 http://thaicable.myftp.org:8000/live/infosat/2020/79.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Thailand",Skysport Football(setAuto)
 http://thaicable.myftp.org:8000/live/infosat/2020/80.ts
