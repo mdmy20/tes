@@ -8,13 +8,13 @@ https://cdn11jtedge.useetv.com/joss/15/champion2/chunklist_w278083658_b1344100_s
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Yang Ini Lancar Bg bless 2
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion2
-#EXTINF:-1 group-title="Champions League",Skynet
+#EXTINF:-1   group-title="Champions League",Skynet
 http://4digital.ddns.net:11223/ts/0
-#EXTINF:-1 group-title="Champions League",Yang Ini Lancar Bg bless 
+#EXTINF:-1   group-title="Champions League",Yang Ini Lancar Bg bless 
 http://iptvnow.me:8080/jajaban/12345/93906
-#EXTINF:-1 group-title="Champions League",DE | Sky Sport 1 HD
+#EXTINF:-1   group-title="Champions League",DE | Sky Sport 1 HD
 http://iptvnow.me:8080/jajaban/12345/91592
-#EXTINF:-1 group-title="Champions League",DE | Sky Sport 2 HD
+#EXTINF:-1   group-title="Champions League",DE | Sky Sport 2 HD
 http://iptvnow.me:8080/jajaban/12345/91593
 
 #EXTINF:-1 group-title="Champions League",IN: Sony SIX HD
