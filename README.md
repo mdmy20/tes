@@ -1,13 +1,19 @@
 
 
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SIX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Champions League",IN: Sony SIX HD
+#EXTINF:-1 group-title="Champions League",Sony SIX HD
 http://iptvtree.net:8080/Line1051/f4fffd47/4853
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Champions League",IN: Sony TEN 1 HD
+#EXTINF:-1 group-title="Champions League",Sony TEN 1 HD
 http://iptvtree.net:8080/Line1051/f4fffd47/74893
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Champions League",IN: Sony TEN 2 HD
+#EXTINF:-1 group-title="Champions League",Sony TEN 2 HD
 http://iptvtree.net:8080/Line1051/f4fffd47/56190
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Sony Ten 3 HD(setAuto)
+
+#EXTINF:-1 group-title="Champions League",Sony Ten 3 HD
 http://14.192.144.14:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Champions League"",DE | Sky Sport 1 HD
+http://iptvnow.me:8080/jajaban/12345/91592
+#EXTINF:-1 group-title="Champions League",DE | Sky Sport 2 HD
+http://iptvnow.me:8080/jajaban/12345/91593
+
 #EXTINF:-1 group-title="Champions League",UK | BT SPORT 1 FHD
 http://iptvnow.me:8080/jajaban/12345/78765
 #EXTINF:-1 group-title="Champions League",UK | BT SPORT 1 HD
@@ -59,6 +65,30 @@ https://vewvew.com:8443/mamana/12345/229659
 https://vewvew.com:8443/mamana/12345/229660
 #EXTINF:-1 group-title="Champions League",World Bein_Sport_4_Mena
 https://vewvew.com:8443/mamana/12345/229661
+#EXTINF:-1 group-title="Champions League"",PT ELEVEN SPORTS 1
+https://vewvew.com:8443/mamana/12345/227639
+#EXTINF:-1 group-title="Champions League"",PT ELEVEN SPORTS 1 HD
+https://vewvew.com:8443/mamana/12345/227640
+#EXTINF:-1 group-title="Champions League"",PT ELEVEN SPORTS 2
+https://vewvew.com:8443/mamana/12345/227641
+#EXTINF:-1 group-title="Champions League"",PT ELEVEN SPORTS 2 HD
+https://vewvew.com:8443/mamana/12345/227642
+#EXTINF:-1 group-title="Champions League"",PT ELEVEN SPORTS 3
+https://vewvew.com:8443/mamana/12345/227643
+#EXTINF:-1 group-title="Champions League"",PT ELEVEN SPORTS 3 HD
+https://vewvew.com:8443/mamana/12345/227644
+#EXTINF:-1 group-title="Champions League"",PT ELEVEN SPORTS 4
+https://vewvew.com:8443/mamana/12345/227645
+#EXTINF:-1 group-title="Champions League"",PT ELEVEN SPORTS 4 HD
+https://vewvew.com:8443/mamana/12345/227646
+#EXTINF:-1 group-title="Champions League"",PT ELEVEN SPORTS 5
+https://vewvew.com:8443/mamana/12345/227647
+#EXTINF:-1 group-title="Champions League"",PT ELEVEN SPORTS 5 HD
+https://vewvew.com:8443/mamana/12345/227648
+#EXTINF:-1 group-title="Champions League"",PT ELEVEN SPORTS 6
+https://vewvew.com:8443/mamana/12345/227649
+#EXTINF:-1 group-title="Champions League"",PT ELEVEN SPORTS 6 HD
+https://vewvew.com:8443/mamana/12345/227650
 
 #EXTINF:-1 group-title="Champions League",FR: RMC SPORT 1 HD
 http://iptvnow.me:8080/jajaban/12345/88344
@@ -81,39 +111,11 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3915
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport 3
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3916
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport 1
-#EXTINF:-1 group-title="Sport",ES: LIGA DE CAMPEONES 2
+#EXTINF:-1 group-title="Champions League",ES: LIGA DE CAMPEONES 2
 http://iptvnow.me:8080/jajaban/12345/86852
-#EXTINF:-1 group-title="Sport",DE | Sky Sport 1 HD
-http://iptvnow.me:8080/jajaban/12345/91592
-#EXTINF:-1 group-title="Champions League",DE | Sky Sport 2 HD
-http://iptvnow.me:8080/jajaban/12345/91593
 
 
 
-#EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 1
-https://vewvew.com:8443/mamana/12345/227639
-#EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 1 HD
-https://vewvew.com:8443/mamana/12345/227640
-#EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 2
-https://vewvew.com:8443/mamana/12345/227641
-#EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 2 HD
-https://vewvew.com:8443/mamana/12345/227642
-#EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 3
-https://vewvew.com:8443/mamana/12345/227643
-#EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 3 HD
-https://vewvew.com:8443/mamana/12345/227644
-#EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 4
-https://vewvew.com:8443/mamana/12345/227645
-#EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 4 HD
-https://vewvew.com:8443/mamana/12345/227646
-#EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 5
-https://vewvew.com:8443/mamana/12345/227647
-#EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 5 HD
-https://vewvew.com:8443/mamana/12345/227648
-#EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 6
-https://vewvew.com:8443/mamana/12345/227649
-#EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 6 HD
-https://vewvew.com:8443/mamana/12345/227650
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Supersports 1 
