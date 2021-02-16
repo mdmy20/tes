@@ -8,40 +8,6 @@ http://iptvtree.net:8080/Line1051/f4fffd47/74893
 http://iptvtree.net:8080/Line1051/f4fffd47/56190
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Sony Ten 3 HD(setAuto)
 http://14.192.144.14:8000/play/a00f/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport ESPN
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3571
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport 2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3572
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport 3
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3573
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport 1
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3574
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",ChampionTV 1 (Vidio)
-https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6685
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",ChampionTV 2 (Vidio)
-https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6686
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",ChampionTV 3 (Vidio)
-https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6786
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Champion TV 1
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Champion TV 2
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion2
-http://4digital.ddns.net:11223/ts/0
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",CCTV5
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4389
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",CCTV5+
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4390
-#EXTINF:-1 group-title="Sport",MY Astro bEIN MAX
-https://vewvew.com:8443/mamana/12345/227136
-
-#EXTINF:-1 group-title="Champions League",FR: RMC SPORT 1 HD
-http://iptvnow.me:8080/jajaban/12345/88344
-#EXTINF:-1 group-title="Champions League",FR: RMC SPORT 2 HD
-http://iptvnow.me:8080/jajaban/12345/88345
-#EXTINF:-1 group-title="Champions League",FR: RMC SPORT 3 HD
-http://iptvnow.me:8080/jajaban/12345/88346
-#EXTINF:-1 group-title="Champions League",FR: RMC SPORT 4 HD
-http://iptvnow.me:8080/jajaban/12345/88347
 #EXTINF:-1 group-title="Champions League",UK | BT SPORT 1 FHD
 http://iptvnow.me:8080/jajaban/12345/78765
 #EXTINF:-1 group-title="Champions League",UK | BT SPORT 1 HD
@@ -58,6 +24,50 @@ http://iptvnow.me:8080/jajaban/12345/78770
 http://iptvnow.me:8080/jajaban/12345/78771
 #EXTINF:-1 group-title="Champions League",UK | BT Sport ESPN HD
 http://iptvnow.me:8080/jajaban/12345/78772
+#EXTINF:-1 group-title="Champions Leaguet",World DAZN1_DE
+https://vewvew.com:8443/mamana/12345/229668
+#EXTINF:-1 group-title="Champions League",World DAZN2_DE
+https://vewvew.com:8443/mamana/12345/229669
+#EXTINF:-1 group-title="Champions Leaguet",NL HEVC: ZIGGO SPORT SELECT
+http://iptvnow.me:8080/jajaban/12345/93906
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",ChampionTV 1 (Vidio)
+https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6685
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",ChampionTV 2 (Vidio)
+https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6686
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",ChampionTV 3 (Vidio)
+https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6786
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Champion TV 1
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Champion TV 2
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion2
+http://4digital.ddns.net:11223/ts/0
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",CCTV5
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4389
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",CCTV5+
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4390
+#EXTINF:-1 group-title="Champions League",MY Astro bEIN MAX
+https://vewvew.com:8443/mamana/12345/227136
+#EXTINF:-1 group-title="Champions League",USA TUDN
+https://vewvew.com:8443/mamana/12345/229376
+#EXTINF:-1 group-title="Champions League",World Bein_Sport_1_Mena
+https://vewvew.com:8443/mamana/12345/229654
+#EXTINF:-1 group-title="Champions League",World Bein_Sport_11_Mena
+https://vewvew.com:8443/mamana/12345/229656
+#EXTINF:-1 group-title="Champions League",World Bein_Sport_2_Mena
+https://vewvew.com:8443/mamana/12345/229659
+#EXTINF:-1 group-title="Champions League",World Bein_Sport_3_Mena
+https://vewvew.com:8443/mamana/12345/229660
+#EXTINF:-1 group-title="Champions League",World Bein_Sport_4_Mena
+https://vewvew.com:8443/mamana/12345/229661
+
+#EXTINF:-1 group-title="Champions League",FR: RMC SPORT 1 HD
+http://iptvnow.me:8080/jajaban/12345/88344
+#EXTINF:-1 group-title="Champions League",FR: RMC SPORT 2 HD
+http://iptvnow.me:8080/jajaban/12345/88345
+#EXTINF:-1 group-title="Champions League",FR: RMC SPORT 3 HD
+http://iptvnow.me:8080/jajaban/12345/88346
+#EXTINF:-1 group-title="Champions League",FR: RMC SPORT 4 HD
+http://iptvnow.me:8080/jajaban/12345/88347
 #EXTINF:-1 group-title="Champions League",ES: MOVISTAR LIGA DE CAMPEONES HD
 http://iptvnow.me:8080/jajaban/12345/86849
 #EXTINF:-1 group-title="Champions League",ES:MOVISTAR LIGA DE CAMPEONES H265
@@ -79,18 +89,6 @@ http://iptvnow.me:8080/jajaban/12345/91592
 http://iptvnow.me:8080/jajaban/12345/91593
 
 
-#EXTINF:-1 group-title="Sport",USA TUDN
-https://vewvew.com:8443/mamana/12345/229376
-#EXTINF:-1 group-title="Sport",World Bein_Sport_1_Mena
-https://vewvew.com:8443/mamana/12345/229654
-#EXTINF:-1 group-title="Sport",World Bein_Sport_11_Mena
-https://vewvew.com:8443/mamana/12345/229656
-#EXTINF:-1 group-title="Sport",World Bein_Sport_2_Mena
-https://vewvew.com:8443/mamana/12345/229659
-#EXTINF:-1 group-title="Sport",World Bein_Sport_3_Mena
-https://vewvew.com:8443/mamana/12345/229660
-#EXTINF:-1 group-title="Sport",World Bein_Sport_4_Mena
-https://vewvew.com:8443/mamana/12345/229661
 
 #EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 1
 https://vewvew.com:8443/mamana/12345/227639
@@ -116,12 +114,6 @@ https://vewvew.com:8443/mamana/12345/227648
 https://vewvew.com:8443/mamana/12345/227649
 #EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 6 HD
 https://vewvew.com:8443/mamana/12345/227650
-#EXTINF:-1 group-title="Sport",World DAZN1_DE
-https://vewvew.com:8443/mamana/12345/229668
-#EXTINF:-1 group-title="Sport",World DAZN2_DE
-https://vewvew.com:8443/mamana/12345/229669
-#EXTINF:-1 group-title="Sport",NL HEVC: ZIGGO SPORT SELECT
-http://iptvnow.me:8080/jajaban/12345/93906
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Supersports 1 
