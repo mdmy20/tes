@@ -24,6 +24,13 @@ http://iptvnow.me:8080/jajaban/12345/78770
 http://iptvnow.me:8080/jajaban/12345/78771
 #EXTINF:-1 group-title="Sport",UK | BT Sport ESPN HD
 http://iptvnow.me:8080/jajaban/12345/78772
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SIX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sport",IN: Sony SIX HD
+http://iptvtree.net:8080/Line1051/f4fffd47/4853
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sport",IN: Sony TEN 1 HD
+http://iptvtree.net:8080/Line1051/f4fffd47/74893
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sport",IN: Sony TEN 2 HD
+http://iptvtree.net:8080/Line1051/f4fffd47/56190
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sport",IN: Sony TEN 3
 #EXTINF:-1 group-title="Sport",ES: MOVISTAR LIGA DE CAMPEONES HD
 http://iptvnow.me:8080/jajaban/12345/86849
 #EXTINF:-1 group-title="Sport",ES:MOVISTAR LIGA DE CAMPEONES H265
@@ -48,6 +55,16 @@ https://vewvew.com:8443/mamana/12345/229659
 https://vewvew.com:8443/mamana/12345/229660
 #EXTINF:-1 group-title="Sport",World Bein_Sport_4_Mena
 https://vewvew.com:8443/mamana/12345/229661
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ChampionTV 1 (Vidio)
+https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6685
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ChampionTV 2 (Vidio)
+https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6686
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ChampionTV 3 (Vidio)
+https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6786
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Champion TV 1
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Champion TV 2
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion2
 #EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 1
 https://vewvew.com:8443/mamana/12345/227639
 #EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 1 HD
@@ -78,6 +95,8 @@ https://vewvew.com:8443/mamana/12345/229668
 https://vewvew.com:8443/mamana/12345/229669
 #EXTINF:-1 group-title="Sport",NL HEVC: ZIGGO SPORT SELECT
 http://iptvnow.me:8080/jajaban/12345/93906
+
+
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SkynetSport
@@ -340,13 +359,30 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4389
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4390
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony BBC EarHD(setAuto)
+http://14.192.144.14:8000/play/a01n/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",TV8
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/155
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",TV1
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4189
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",TV2
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4190
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",TV8
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4191
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",TV9
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4192
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Warna
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/180
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",HGTV
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/194
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Animal Planet (Eng)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",NatGeo Wild HD
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/165
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Fashion tv
+https://bozztv.com:443/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
 
 
 
-
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",Sony BBC EarHD(setAuto)
 http://14.192.144.14:8000/play/a01n/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",Sony MAX HD(setAuto) 
 http://14.192.144.14:8000/play/a0gi/index.m3u8
@@ -384,11 +420,6 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/123
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/144
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",Cinema World
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/148
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",TV1
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/149
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",TV2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/150
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",TV3
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/151
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",TV3 backup
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/152
@@ -416,8 +447,6 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/162
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/163
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",Arena
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/164
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",NatGeo Wild HD
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/165
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",Oasis
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/166
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",Ceria
@@ -444,8 +473,6 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/176
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/177
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",Celestial Classic
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/179
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",Warna
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/180
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",RIA
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/181
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",AEC
@@ -472,9 +499,6 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/191
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/192
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",HBO HD
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/193
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",HGTV
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/194
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",Animal Planet (Eng)
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/195
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",FOX MOVIES
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3505
@@ -737,154 +761,565 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4226
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",DDTV
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4227
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",SK 1(setAuto)
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Tigo Sports
+http://latvonlive.com:33612/Llanos1/1234/800
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Win Sports HD
+http://latvonlive.com:33612/Llanos1/1234/191
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Win Sports+ HD
+http://latvonlive.com:33612/Llanos1/1234/5715
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Canal Uno HD
+http://latvonlive.com:33612/Llanos1/1234/596
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",beIN Sports En Español HD
+http://latvonlive.com:33612/Llanos1/1234/241
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",DIRECTV Sports Latino HD
+http://latvonlive.com:33612/Llanos1/1234/893
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",DIRECTV Sports 2 Latino HD
+http://latvonlive.com:33612/Llanos1/1234/892
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",DIRECTV Sports Plus Latino HD
+http://latvonlive.com:33612/Llanos1/1234/894
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",ESPN HD
+http://latvonlive.com:33612/Llanos1/1234/530
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",ESPN 2 HD
+http://latvonlive.com:33612/Llanos1/1234/665
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",ESPN 2 Mexico
+http://latvonlive.com:33612/Llanos1/1234/4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",ESPN 3 HD
+http://latvonlive.com:33612/Llanos1/1234/620
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",ESPN Extra HD
+http://latvonlive.com:33612/Llanos1/1234/423
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",ESPN Deportes HD
+http://latvonlive.com:33612/Llanos1/1234/537
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Eurosport 1 HD
+http://latvonlive.com:33612/Llanos1/1234/722
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Deportes HD
+http://latvonlive.com:33612/Llanos1/1234/350
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Sports HD Argentina
+http://latvonlive.com:33612/Llanos1/1234/20
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Sports HD Mexico
+http://latvonlive.com:33612/Llanos1/1234/163
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Sports 2 HD Argentina
+http://latvonlive.com:33612/Llanos1/1234/165
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Sports 2 HD Mexico
+http://latvonlive.com:33612/Llanos1/1234/162
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Sports 3 HD Argentina
+http://latvonlive.com:33612/Llanos1/1234/22
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Sports Premium HD Argentina
+http://latvonlive.com:33612/Llanos1/1234/166
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Sports 3 HD Mexico
+http://latvonlive.com:33612/Llanos1/1234/161
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",GolTV
+http://latvonlive.com:33612/Llanos1/1234/368
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Real Madrid TV
+http://latvonlive.com:33612/Llanos1/1234/158
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",TNT Sports Argentina
+http://latvonlive.com:33612/Llanos1/1234/637
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Toros TV
+http://latvonlive.com:33612/Llanos1/1234/932
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",TyC Sports HD
+http://latvonlive.com:33612/Llanos1/1234/239
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",AT&T SportsNet Southwest HD
+http://latvonlive.com:33612/Llanos1/1234/736
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",beIN Sports HD
+http://latvonlive.com:33612/Llanos1/1234/261
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Big Ten Network HD
+http://latvonlive.com:33612/Llanos1/1234/260
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",CBS Sports Network
+http://latvonlive.com:33612/Llanos1/1234/483
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Eleven Sports Network
+http://latvonlive.com:33612/Llanos1/1234/256
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",ESPN HD US
+http://latvonlive.com:33612/Llanos1/1234/536
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",ESPN2 HD US
+http://latvonlive.com:33612/Llanos1/1234/670
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",ESPNEWS HD
+http://latvonlive.com:33612/Llanos1/1234/671
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",ACC Network HD
+http://latvonlive.com:33612/Llanos1/1234/748
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",SEC Network HD
+http://latvonlive.com:33612/Llanos1/1234/733
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",ESPNU HD
+http://latvonlive.com:33612/Llanos1/1234/726
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",FOX Soccer Plus HD
+http://latvonlive.com:33612/Llanos1/1234/258
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Sports 1 HD US
+http://latvonlive.com:33612/Llanos1/1234/372
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Premium Action HD
+http://latvonlive.com:33612/Llanos1/1234/611
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Premium Cinema HD
+http://latvonlive.com:33612/Llanos1/1234/616
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Premium Classics HD
+http://latvonlive.com:33612/Llanos1/1234/615
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Premium Comedy HD
+http://latvonlive.com:33612/Llanos1/1234/614
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Premium Family HD
+http://latvonlive.com:33612/Llanos1/1234/610
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Premium Movies HD
+http://latvonlive.com:33612/Llanos1/1234/609
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Premium Series HD
+http://latvonlive.com:33612/Llanos1/1234/101
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",FX Movie HD
+http://latvonlive.com:33612/Llanos1/1234/581
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Golden Plus HD
+http://latvonlive.com:33612/Llanos1/1234/607
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",HBO Latino East HD
+http://latvonlive.com:33612/Llanos1/1234/29
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",HBO HD
+http://latvonlive.com:33612/Llanos1/1234/601
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",HBO 2 HD
+http://latvonlive.com:33612/Llanos1/1234/603
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",HBO Family HD
+http://latvonlive.com:33612/Llanos1/1234/602
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",HBO Mundi HD
+http://latvonlive.com:33612/Llanos1/1234/594
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",HBO Plus HD
+http://latvonlive.com:33612/Llanos1/1234/600
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",HBO POP HD
+http://latvonlive.com:33612/Llanos1/1234/593
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",HBO Signature HD
+http://latvonlive.com:33612/Llanos1/1234/599
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Paramount Network HD
+http://latvonlive.com:33612/Llanos1/1234/151
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Smithsonian Channel HD
+http://latvonlive.com:33612/Llanos1/1234/819
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Syfy HD US
+http://latvonlive.com:33612/Llanos1/1234/287
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",TLC HD US
+http://latvonlive.com:33612/Llanos1/1234/664
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",TNT HD US
+http://latvonlive.com:33612/Llanos1/1234/557
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Travel Channel HD
+http://latvonlive.com:33612/Llanos1/1234/359
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",truTV HD US
+http://latvonlive.com:33612/Llanos1/1234/534
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",TV Land HD
+http://latvonlive.com:33612/Llanos1/1234/144
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",USA Network HD
+http://latvonlive.com:33612/Llanos1/1234/285
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Animal Planet HD
+http://latvonlive.com:33612/Llanos1/1234/57
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Discovery Channel HD
+http://latvonlive.com:33612/Llanos1/1234/624
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Discovery en Español US
+http://latvonlive.com:33612/Llanos1/1234/558
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Discovery Home & Health HD
+http://latvonlive.com:33612/Llanos1/1234/623
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Discovery ID HD
+http://latvonlive.com:33612/Llanos1/1234/422
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Discovery Science
+http://latvonlive.com:33612/Llanos1/1234/640
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Discovery Theater HD
+http://latvonlive.com:33612/Llanos1/1234/418
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Discovery Turbo
+http://latvonlive.com:33612/Llanos1/1234/134
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Discovery World HD
+http://latvonlive.com:33612/Llanos1/1234/419
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",History Channel HD
+http://latvonlive.com:33612/Llanos1/1234/598
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",H2 HD
+http://latvonlive.com:33612/Llanos1/1234/19
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Nat Geo Wild HD
+http://latvonlive.com:33612/Llanos1/1234/588
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",National Geographic HD
+http://latvonlive.com:33612/Llanos1/1234/590
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",TLC HD
+http://latvonlive.com:33612/Llanos1/1234/65
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Animal Planet HD US
+http://latvonlive.com:33612/Llanos1/1234/682
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Discovery Channel HD US
+http://latvonlive.com:33612/Llanos1/1234/916
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",History HD US
+http://latvonlive.com:33612/Llanos1/1234/304
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",AXN HD
+http://latvonlive.com:33612/Llanos1/1234/632
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Cine Sony HD
+http://latvonlive.com:33612/Llanos1/1234/493
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Cinecanal HD
+http://latvonlive.com:33612/Llanos1/1234/628
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Cinema Dinamita
+http://latvonlive.com:33612/Llanos1/1234/95
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",CineMax HD
+http://latvonlive.com:33612/Llanos1/1234/96
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Studio Universal
+http://latvonlive.com:33612/Llanos1/1234/109
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",StarzEncore Español HD
+http://latvonlive.com:33612/Llanos1/1234/28
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",TNT HD
+http://latvonlive.com:33612/Llanos1/1234/322
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",TNT HD Mexico
+http://latvonlive.com:33612/Llanos1/1234/331
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Universal Channel HD
+http://latvonlive.com:33612/Llanos1/1234/111
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Comet HD
+http://latvonlive.com:33612/Llanos1/1234/820
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",FX Movie Channel HD
+http://latvonlive.com:33612/Llanos1/1234/292
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Hallmark Channel HD
+http://latvonlive.com:33612/Llanos1/1234/836
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Hallmark Drama HD
+http://latvonlive.com:33612/Llanos1/1234/835
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Hallmark Movies & Mysteries HD
+http://latvonlive.com:33612/Llanos1/1234/834
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Lifetime Movie Network HD
+http://latvonlive.com:33612/Llanos1/1234/503
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Sony Movie Channel HD
+http://latvonlive.com:33612/Llanos1/1234/818
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Cinemax East HD US
+http://latvonlive.com:33612/Llanos1/1234/724
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Moremax East HD
+http://latvonlive.com:33612/Llanos1/1234/779
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Star Max HD
+http://latvonlive.com:33612/Llanos1/1234/737
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",ActionMax East HD
+http://latvonlive.com:33612/Llanos1/1234/735
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",MovieMax HD
+http://latvonlive.com:33612/Llanos1/1234/734
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",OuterMax HD
+http://latvonlive.com:33612/Llanos1/1234/856
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",ThrillerMax East HD
+http://latvonlive.com:33612/Llanos1/1234/679
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",HBO East HD US
+http://latvonlive.com:33612/Llanos1/1234/685
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",HBO 2 East HD
+http://latvonlive.com:33612/Llanos1/1234/686
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",HBO Comedy East HD US
+http://latvonlive.com:33612/Llanos1/1234/687
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",HBO Family East HD US
+http://latvonlive.com:33612/Llanos1/1234/688
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",HBO Signature East HD US
+http://latvonlive.com:33612/Llanos1/1234/690
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",HBO Zone East HD US
+http://latvonlive.com:33612/Llanos1/1234/689
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Showtime Extreme HD
+http://latvonlive.com:33612/Llanos1/1234/699
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Showtime Showcase HD
+http://latvonlive.com:33612/Llanos1/1234/691
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Showtime Next HD
+http://latvonlive.com:33612/Llanos1/1234/585
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Showtime Women HD
+http://latvonlive.com:33612/Llanos1/1234/107
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Showtime Family Zone HD
+http://latvonlive.com:33612/Llanos1/1234/103
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",StarzEncore East HD
+http://latvonlive.com:33612/Llanos1/1234/642
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",StarzEncore Action HD
+http://latvonlive.com:33612/Llanos1/1234/100
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",StarzEncore Black HD
+http://latvonlive.com:33612/Llanos1/1234/98
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",StarzEncore Classic HD
+http://latvonlive.com:33612/Llanos1/1234/93
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",StarzEncore Suspense HD
+http://latvonlive.com:33612/Llanos1/1234/61
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Starz East HD
+http://latvonlive.com:33612/Llanos1/1234/697
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Starz Kids & Family
+http://latvonlive.com:33612/Llanos1/1234/695
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Starz Comedy HD
+http://latvonlive.com:33612/Llanos1/1234/693
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Starz Edge HD
+http://latvonlive.com:33612/Llanos1/1234/694
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Starz in Black HD
+http://latvonlive.com:33612/Llanos1/1234/51
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Starz Cinema HD
+http://latvonlive.com:33612/Llanos1/1234/692
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",StarzEncore Family HD
+http://latvonlive.com:33612/Llanos1/1234/56
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",StarzEncore Westerns HD
+http://latvonlive.com:33612/Llanos1/1234/52
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",SundanceTV HD
+http://latvonlive.com:33612/Llanos1/1234/582
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",BBC World News HD
+http://latvonlive.com:33612/Llanos1/1234/10
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Bloomberg TV
+http://latvonlive.com:33612/Llanos1/1234/5691
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",CNBC HD
+http://latvonlive.com:33612/Llanos1/1234/274
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",CNBC World HD
+http://latvonlive.com:33612/Llanos1/1234/497
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",CNN en Español
+http://latvonlive.com:33612/Llanos1/1234/758
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",CNN HD US
+http://latvonlive.com:33612/Llanos1/1234/650
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",CNN International HD
+http://latvonlive.com:33612/Llanos1/1234/652
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Business HD
+http://latvonlive.com:33612/Llanos1/1234/272
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Fox Sports 2 HD US
+http://latvonlive.com:33612/Llanos1/1234/371
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",GINX eSports HD
+http://latvonlive.com:33612/Llanos1/1234/683
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",GolTV US
+http://latvonlive.com:33612/Llanos1/1234/369
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",MavTV HD
+http://latvonlive.com:33612/Llanos1/1234/831
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",MLB Network HD
+http://latvonlive.com:33612/Llanos1/1234/658
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",NBA TV HD
+http://latvonlive.com:33612/Llanos1/1234/262
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",NBC Sports Bay Area HD
+http://latvonlive.com:33612/Llanos1/1234/741
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",NBC Sports California HD
+http://latvonlive.com:33612/Llanos1/1234/743
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",NBC Sports Chicago HD
+http://latvonlive.com:33612/Llanos1/1234/253
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",NBC Sports Chicago Plus HD
+http://latvonlive.com:33612/Llanos1/1234/756
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",NBCSN HD
+http://latvonlive.com:33612/Llanos1/1234/263
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",NFL Network HD
+http://latvonlive.com:33612/Llanos1/1234/425
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",NFL RedZone HD
+http://latvonlive.com:33612/Llanos1/1234/424
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",NHL Network HD
+http://latvonlive.com:33612/Llanos1/1234/747
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Olympic Channel HD
+http://latvonlive.com:33612/Llanos1/1234/286
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Outdoor Channel HD
+http://latvonlive.com:33612/Llanos1/1234/822
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Sportsman Channel HD
+http://latvonlive.com:33612/Llanos1/1234/817
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Sportsnet NY HD
+http://latvonlive.com:33612/Llanos1/1234/938
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",Tennis Channel HD
+http://latvonlive.com:33612/Llanos1/1234/951
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",The Fight Network HD
+http://latvonlive.com:33612/Llanos1/1234/281
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",The Golf Channel HD
+http://latvonlive.com:33612/Llanos1/1234/259
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",TVG HD
+http://latvonlive.com:33612/Llanos1/1234/889
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",TVG2 HD
+http://latvonlive.com:33612/Llanos1/1234/132
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",UFC TV
+http://latvonlive.com:33612/Llanos1/1234/757
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",World Fishing Network HD (US)
+http://latvonlive.com:33612/Llanos1/1234/808
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="USA",WWE Network HD
+http://latvonlive.com:33612/Llanos1/1234/749
+
+
+
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Thailand",SK 1(setAuto)
 http://thaicable.myftp.org:8000/live/infosat/2020/73.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",SK 2(setAuto)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Thailand",SK 2(setAuto)
 http://thaicable.myftp.org:8000/live/infosat/2020/74.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",SK 3(setAuto)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Thailand",SK 3(setAuto)
 http://thaicable.myftp.org:8000/live/infosat/2020/75.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",SK 4(setAuto)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Thailand",SK 4(setAuto)
 http://thaicable.myftp.org:8000/live/infosat/2020/76.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",MU Tv(setAuto)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Thailand",MU Tv(setAuto)
 http://thaicable.myftp.org:8000/live/infosat/2020/77.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",LFCTV(setAuto)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Thailand",LFCTV(setAuto)
 http://thaicable.myftp.org:8000/live/infosat/2020/78.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Skysport1(setAuto)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Thailand",Skysport1(setAuto)
 http://thaicable.myftp.org:8000/live/infosat/2020/79.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Skysport Football(setAuto)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Thailand",Skysport Football(setAuto)
 http://thaicable.myftp.org:8000/live/infosat/2020/80.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Tennis Chanel(setAuto)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Thailand",Tennis Chanel(setAuto)
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="Thailand",FOX SPORTS 1 TH
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="Thailand",FOX SPORTS 2 TH
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="Thailand",FOX SPORTS 3 TH
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="oxygentv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/oxygen.png" group-title="OXYGEN",Oxygen TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=oxygentv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/net.png" group-title="OXYGEN",NET.
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="Thailand",FOX SPORTS 1 Thai
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="Thailand",FOX SPORTS 2 Thai
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="Thailand",FOX SPORTS 3 Thai
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="Thailand",TrueSport HD1
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="Thailand",TrueSport HD2
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="Thailand",TrueSport HD3
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="Thailand",TrueSport HD4
+https://www.livedoomovies.com//02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="Thailand",TrueSport HD5
+https://www.livedoomovie.com//02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="Thailand",TrueSport HD6
+https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="Thailand",TrueSport HD7
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="Thailand",True Premier HD 1
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="Thailand",True Premier HD 2
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="Thailand",True Premier HD 3
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="Thailand",True Premier HD 4
+http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
+http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="Thailand",True Premier HD 5
+http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
+http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
+http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Lokaltv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/Lokal.png" group-title="Lokal",Lokal TV
+http://103.55.39.182/~dusktil2/a.m3u8?q=Lokaltv
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/net.png" group-title="Lokal",NET.
 http://103.55.39.182/~dusktil2/a.m3u8?q=nettv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/metrotv.png" group-title="OXYGEN",METRO TV
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/metrotv.png" group-title="Lokal",METRO TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=metrotv 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvri.png" group-title="OXYGEN",TVRI
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvri.png" group-title="Lokal",TVRI
 http://103.55.39.182/~dusktil2/a.m3u8?q=tvri
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/sctv.png" group-title="OXYGEN",SCTV
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/sctv.png" group-title="Lokal",SCTV
 http://103.55.39.182/~dusktil2/a.m3u8?q=sctv 
-#EXTINF:-1 tvg-id="trans7" tvg-logo="http://202.74.236.189/~uzbwkzam/img/trans7.png" group-title="OXYGEN",TRANS 7
+#EXTINF:-1 tvg-id="trans7" tvg-logo="http://202.74.236.189/~uzbwkzam/img/trans7.png" group-title="Lokal",TRANS 7
 http://103.55.39.182/~dusktil2/a.m3u8?q=trans7 
-#EXTINF:-1 tvg-id="transtv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/transtv.png" group-title="OXYGEN",TRANS TV
+#EXTINF:-1 tvg-id="transtv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/transtv.png" group-title="Lokal",TRANS TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=transtv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/indosiar.png" group-title="OXYGEN",INDOSIAR
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/indosiar.png" group-title="Lokal",INDOSIAR
 http://103.55.39.182/~dusktil2/a.m3u8?q=indosiar
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="OXYGEN",ANTV
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="Lokal",ANTV
 http://103.55.39.182/~dusktil2/a.m3u8?q=antv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvone.png" group-title="OXYGEN",TV ONE
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvone.png" group-title="Lokal",TV ONE
 http://103.55.39.182/~dusktil2/a.m3u8?q=tvone 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jaktv.png" group-title="OXYGEN",JAKTV
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jaktv.png" group-title="Lokal",JAKTV
 http://103.55.39.182/~dusktil2/a.m3u8?q=jaktv 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/matrixtv.png" group-title="OXYGEN",MATRIX TV
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/matrixtv.png" group-title="Lokal",MATRIX TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=matrixtv 
-#EXTINF:-1 tvg-id="lejelhomeshopping" tvg-logo="http://202.74.236.189/~uzbwkzam/img/lejelhs.png" group-title="OXYGEN",LEJEL HS
+#EXTINF:-1 tvg-id="lejelhomeshopping" tvg-logo="http://202.74.236.189/~uzbwkzam/img/lejelhs.png" group-title="Lokal",LEJEL HS
 http://103.55.39.182/~dusktil2/a.m3u8?q=lejelhs 
-#EXTINF:-1 tvg-id="nusantaratv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/ntv.png" group-title="OXYGEN",NUSANTARA TV
+#EXTINF:-1 tvg-id="nusantaratv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/ntv.png" group-title="Lokal",NUSANTARA TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=nusantaratv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/kompastv.png" group-title="OXYGEN",KOMPAS TV
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/kompastv.png" group-title="Lokal",KOMPAS TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=kompastv
-#EXTINF:-1 tvg-id="rtv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/rtv.png" group-title="OXYGEN",RTV
+#EXTINF:-1 tvg-id="rtv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/rtv.png" group-title="Lokal",RTV
 http://103.55.39.182/~dusktil2/a.m3u8?q=rtv
-#EXTINF:-1 tvg-id="ochannel" tvg-logo="http://202.74.236.189/~uzbwkzam/img/ochannel.png" group-title="OXYGEN",O CHANNEL
+#EXTINF:-1 tvg-id="ochannel" tvg-logo="http://202.74.236.189/~uzbwkzam/img/ochannel.png" group-title="Lokal",O CHANNEL
 http://103.55.39.182/~dusktil2/a.m3u8?q=ochannel
-#EXTINF:-1 tvg-id="nhkworld" tvg-logo="http://202.74.236.189/~uzbwkzam/img/nhkworld.png" group-title="OXYGEN",NHK WORLD
+#EXTINF:-1 tvg-id="nhkworld" tvg-logo="http://202.74.236.189/~uzbwkzam/img/nhkworld.png" group-title="Lokal",NHK WORLD
 http://103.55.39.182/~dusktil2/a.m3u8?q=nhkworld 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/phoenixhk.png" group-title="OXYGEN",PHOENIX HK
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/phoenixhk.png" group-title="Lokal",PHOENIX HK
 http://103.55.39.182/~dusktil2/a.m3u8?q=phoenixhongkong
-#EXTINF:-1 tvg-id="dwtv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/dw.png" group-title="OXYGEN",DW TV ASIA
+#EXTINF:-1 tvg-id="dwtv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/dw.png" group-title="Lokal",DW TV ASIA
 http://103.55.39.182/~dusktil2/a.m3u8?q=dwenglish
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/france24.png" group-title="OXYGEN",FRANCE 24
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/france24.png" group-title="Lokal",FRANCE 24
 http://103.55.39.182/~dusktil2/a.m3u8?q=france24
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/arirang.png" group-title="OXYGEN",ARIRANG
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/arirang.png" group-title="Lokal",ARIRANG
 http://103.55.39.182/~dusktil2/a.m3u8?q=arirangworld
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cctv4.png" group-title="OXYGEN",CCTV4
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cctv4.png" group-title="Lokal",CCTV4
 http://103.55.39.182/~dusktil2/a.m3u8?q=cctv4asia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/voa.png" group-title="OXYGEN",VOA
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/voa.png" group-title="Lokal",VOA
 http://103.55.39.182/~dusktil2/a.m3u8?q=voa
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/raiitalia.png" group-title="OXYGEN",RAI ITALIA
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/raiitalia.png" group-title="Lokal",RAI ITALIA
 http://103.55.39.182/~dusktil2/a.m3u8?q=raiitalia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cetv1.png" group-title="OXYGEN",CETV 1
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cetv1.png" group-title="Lokal",CETV 1
 http://103.55.39.182/~dusktil2/a.m3u8?q=cetv1
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tve.png" group-title="OXYGEN",TVE ASIA
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tve.png" group-title="Lokal",TVE ASIA
 http://103.55.39.182/~dusktil2/a.m3u8?q=tveasia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tv5monde.png" group-title="OXYGEN",TV5MONDE
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tv5monde.png" group-title="Lokal",TV5MONDE
 http://103.55.39.182/~dusktil2/a.m3u8?q=tv5monde
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cgtndoc.png" group-title="OXYGEN",CGTN DOCUMENTARY
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cgtndoc.png" group-title="Lokal",CGTN DOCUMENTARY
 http://103.55.39.182/~dusktil2/a.m3u8?q=cgtndocumentary
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/salamtv.png" group-title="OXYGEN",SALAM TV
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/salamtv.png" group-title="Lokal",SALAM TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=salamtv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rodjatv.png" group-title="OXYGEN",RODJA TV
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rodjatv.png" group-title="Lokal",RODJA TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=rodjatv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/daaitv.png" group-title="OXYGEN",DAAI TV
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/daaitv.png" group-title="Lokal",DAAI TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=daaitv
-#EXTINF:-1 tvg-id="alquran" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mekkah.png" group-title="OXYGEN",QUR'AN TV
+#EXTINF:-1 tvg-id="alquran" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mekkah.png" group-title="Lokal",QUR'AN TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=qurantv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tawaf.png" group-title="OXYGEN",TAWAF TV
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tawaf.png" group-title="Lokal",TAWAF TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=tawaftv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bs.png" group-title="OXYGEN",BERITA SATU
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bs.png" group-title="Lokal",BERITA SATU
 http://103.55.39.182/~dusktil2/a.m3u8?q=beritasatu
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/inews.png" group-title="OXYGEN",iNews
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/inews.png" group-title="Lokal",iNews
 http://103.55.39.182/~dusktil2/a.m3u8?q=inews
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnbcindonesia.png" group-title="OXYGEN",CNBC INDONESIA
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnbcindonesia.png" group-title="Lokal",CNBC INDONESIA
 http://103.55.39.182/~dusktil2/a.m3u8?q=cnbcindonesia
-#EXTINF:-1 tvg-id="aljazeera" tvg-logo="http://202.74.236.189/~uzbwkzam/img/aljazeera.png" group-title="OXYGEN",AL JAZEERA
+#EXTINF:-1 tvg-id="aljazeera" tvg-logo="http://202.74.236.189/~uzbwkzam/img/aljazeera.png" group-title="Lokal",AL JAZEERA
 http://103.55.39.182/~dusktil2/a.m3u8?q=aljazeera
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/trt.png" group-title="OXYGEN",TRT WORLD
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/trt.png" group-title="Lokal",TRT WORLD
 //http://103.55.39.182/~dusktil2/a.m3u8?q=trtworld 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/phoenixchinese.png" group-title="OXYGEN",PHOENIX CHINESE
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/phoenixchinese.png" group-title="Lokal",PHOENIX CHINESE
 http://103.55.39.182/~dusktil2/a.m3u8?q=phoenixchinese
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cna.png" group-title="OXYGEN",CHANNEL NEWS ASIA
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cna.png" group-title="Lokal",CHANNEL NEWS ASIA
 http://103.55.39.182/~dusktil2/a.m3u8?q=channelnewsasia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rt.png" group-title="OXYGEN",RUSSIA TODAY
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rt.png" group-title="Lokal",RUSSIA TODAY
 http://103.55.39.182/~dusktil2/a.m3u8?q=russiatoday
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/phoenixinfonews.png" group-title="OXYGEN",PHOENIX INFO NEWS
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/phoenixinfonews.png" group-title="Lokal",PHOENIX INFO NEWS
 http://103.55.39.182/~dusktil2/a.m3u8?q=phoenixnews
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/euronews.png" group-title="OXYGEN",EURONEWS
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/euronews.png" group-title="Lokal",EURONEWS
 http://103.55.39.182/~dusktil2/a.m3u8?q=euronewsasia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cgtn.png" group-title="OXYGEN",CGTN
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cgtn.png" group-title="Lokal",CGTN
 http://103.55.39.182/~dusktil2/a.m3u8?q=cgtn
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvbnews.png" group-title="OXYGEN",TVB NEWS
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvbnews.png" group-title="Lokal",TVB NEWS
 http://103.55.39.182/~dusktil2/a.m3u8?q=tvbnews
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bloomberg.png" group-title="OXYGEN",BLOOMBERG
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bloomberg.png" group-title="Lokal",BLOOMBERG
 http://103.55.39.182/~dusktil2/a.m3u8?q=bloomberg
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnbcasia.png" group-title="OXYGEN",CNBC
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnbcasia.png" group-title="Lokal",CNBC
 http://103.55.39.182/~dusktil2/a.m3u8?q=cnbc
-#EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="http://202.74.236.189/~uzbwkzam/img/sinemaindonesia.png" group-title="OXYGEN",SINEMA INDONESIA
+#EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="http://202.74.236.189/~uzbwkzam/img/sinemaindonesia.png" group-title="Lokal",SINEMA INDONESIA
 http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia
-#EXTINF:-1 tvg-id="sinemaindonesiax" tvg-logo="http://202.74.236.189/~uzbwkzam/img/sinemaindonesiax.png" group-title="OXYGEN",SINEMA INDONESIA X
+#EXTINF:-1 tvg-id="sinemaindonesiax" tvg-logo="http://202.74.236.189/~uzbwkzam/img/sinemaindonesiax.png" group-title="Lokal",SINEMA INDONESIA X
 http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia-x
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/b4umovies.png" group-title="OXYGEN",B4U MOVIES
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/b4umovies.png" group-title="Lokal",B4U MOVIES
 http://103.55.39.182/~dusktil2/a.m3u8?q=b4umovieindia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/xingxong.png" group-title="OXYGEN",XING KONG CHINA
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/xingxong.png" group-title="Lokal",XING KONG CHINA
 http://103.55.39.182/~dusktil2/a.m3u8?q=xingkong
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/lotusmacau.png" group-title="OXYGEN",LOTUS MACAU
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/lotusmacau.png" group-title="Lokal",LOTUS MACAU
 http://103.55.39.182/~dusktil2/a.m3u8?q=lotusmacau
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/drakor.png" group-title="OXYGEN",Drakor Plus
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/drakor.png" group-title="Lokal",Drakor Plus
 http://103.55.39.182/~dusktil2/a.m3u8?q=drakorplus
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/lbs.png" group-title="OXYGEN",K DRAMA
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/lbs.png" group-title="Lokal",K DRAMA
 http://103.55.39.182/~dusktil2/a.m3u8?q=k-drama
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/luxetv.png" group-title="OXYGEN",GO TO LUXE
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/luxetv.png" group-title="Lokal",GO TO LUXE
 http://103.55.39.182/~dusktil2/a.m3u8?q=gotoluxe 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/channelvchina.png" group-title="OXYGEN",CHANNEL V CHINA
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/channelvchina.png" group-title="Lokal",CHANNEL V CHINA
 http://103.55.39.182/~dusktil2/a.m3u8?q=vchina
-#EXTINF:-1 tvg-id="b4umovies" tvg-logo="http://202.74.236.189/~uzbwkzam/img/b4umusic.png" group-title="OXYGEN",B4U MUSIC
+#EXTINF:-1 tvg-id="b4umovies" tvg-logo="http://202.74.236.189/~uzbwkzam/img/b4umusic.png" group-title="Lokal",B4U MUSIC
 http://103.55.39.182/~dusktil2/a.m3u8?q=b4umusicindia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mtvchina.png" group-title="OXYGEN",MTV CHINA
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mtvchina.png" group-title="Lokal",MTV CHINA
 http://103.55.39.182/~dusktil2/a.m3u8?q=mtvchina 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/spacetoon.png" group-title="OXYGEN",SPACETOON
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/spacetoon.png" group-title="Lokal",SPACETOON
 http://103.55.39.182/~dusktil2/a.m3u8?q=spacetoon
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvedukasi.png" group-title="OXYGEN",TV EDUKASI
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvedukasi.png" group-title="Lokal",TV EDUKASI
 http://103.55.39.182/~dusktil2/a.m3u8?q=tvedukasi
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/toonmax.png" group-title="OXYGEN",TOONMAX
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/toonmax.png" group-title="Lokal",TOONMAX
 http://103.55.39.182/~dusktil2/a.m3u8?q=toonmax
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvrisports.png" group-title="OXYGEN",TVRI SPORT
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvrisports.png" group-title="Lokal",TVRI SPORT
 http://103.55.39.182/~dusktil2/a.m3u8?q=tvrisport
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/sportsone.png" group-title="OXYGEN",SPORT ONE
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/sportsone.png" group-title="Lokal",SPORT ONE
 http://103.55.39.182/~dusktil2/a.m3u8?q=sportone
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/alkasstwo.png" group-title="OXYGEN",AL KASS TWO
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/alkasstwo.png" group-title="Lokal",AL KASS TWO
 http://103.55.39.182/~dusktil2/a.m3u8?q=alkasstwo
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/dubaisports3.png" group-title="OXYGEN",DUBAI SPORTS 3
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/dubaisports3.png" group-title="Lokal",DUBAI SPORTS 3
 http://103.55.39.182/~dusktil2/a.m3u8?q=dubaisport2
