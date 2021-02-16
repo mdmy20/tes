@@ -1,20 +1,20 @@
-
+#EXTINF:-1 group-title="Champions League",Champion
 https://cdn11jtedge.useetv.com/joss/15/nba/chunklist_w1862565399_b1344100_sleng_kamiselaluada.m3u8?enc=5VCajJfh-qovEFm-R1c14A&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613502029
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/champions1.png" group-title="Champions League",Champion Tv 1 HD
+#EXTINF:-1 group-title="Champions League",Champion Tv 1 HD
 https://cdn11jtedge.useetv.com/joss/15/champion1/chunklist_w1082535112_b1344100_sleng_kamiselaluada.m3u8?enc=V35Y1J3q4HEqm0AwemjKQg&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613502029
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/champions2.png" group-title="Champions League",Champion Tv 2 HD
+#EXTINF:-1 group-title="Champions League",Champion Tv 2 HD
 https://cdn11jtedge.useetv.com/joss/15/champion2/chunklist_w278083658_b1344100_sleng_kamiselaluada.m3u8?enc=ti5RlQ2WIxVT-4Iw_KTG9g&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613502029
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Champion Tv 1
+#EXTINF:-1 group-title="Champions League",Champion Tv 1
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Champion Tv 2
+#EXTINF:-1 group-title="Champions League",Champion Tv 2
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion2
-#EXTINF:-1   group-title="Champions League",Skynet Myanmar
+#EXTINF:-1 group-title="Champions League",Skynet Myanmar
 http://4digital.ddns.net:11223/ts/0
-#EXTINF:-1   group-title="Champions League",Ziggo Sport 
+#EXTINF:-1 group-title="Champions League",Ziggo Sport 
 http://iptvnow.me:8080/jajaban/12345/93906
-#EXTINF:-1   group-title="Champions League",DE | Sky Sport 1 HD
+#EXTINF:-1 group-title="Champions League",DE | Sky Sport 1 HD
 http://iptvnow.me:8080/jajaban/12345/91592
-#EXTINF:-1   group-title="Champions League",DE | Sky Sport 2 HD
+#EXTINF:-1 group-title="Champions League",DE | Sky Sport 2 HD
 http://iptvnow.me:8080/jajaban/12345/91593
 
 #EXTINF:-1 group-title="Champions League",IN: Sony SIX HD
