@@ -16,7 +16,6 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3572
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3573
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport 1
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3574
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",SkynetSport
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",ChampionTV 1 (Vidio)
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6685
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",ChampionTV 2 (Vidio)
