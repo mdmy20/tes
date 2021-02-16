@@ -24,11 +24,11 @@ http://iptvnow.me:8080/jajaban/12345/78770
 http://iptvnow.me:8080/jajaban/12345/78771
 #EXTINF:-1 group-title="Champions League",UK | BT Sport ESPN HD
 http://iptvnow.me:8080/jajaban/12345/78772
-#EXTINF:-1 group-title="Champions Leaguet",World DAZN1_DE
+#EXTINF:-1 group-title="Champions League",World DAZN1_DE
 https://vewvew.com:8443/mamana/12345/229668
 #EXTINF:-1 group-title="Champions League",World DAZN2_DE
 https://vewvew.com:8443/mamana/12345/229669
-#EXTINF:-1 group-title="Champions Leaguet",NL HEVC: ZIGGO SPORT SELECT
+#EXTINF:-1 group-title="Champions League",NL HEVC: ZIGGO SPORT SELECT
 http://iptvnow.me:8080/jajaban/12345/93906
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",ChampionTV 1 (Vidio)
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6685
