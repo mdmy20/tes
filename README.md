@@ -6,7 +6,7 @@ http://iptvtree.net:8080/Line1051/f4fffd47/4853
 http://iptvtree.net:8080/Line1051/f4fffd47/74893
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Champions League",IN: Sony TEN 2 HD
 http://iptvtree.net:8080/Line1051/f4fffd47/56190
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Sony Ten 3 HD
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Sony Ten 3 HD(setAuto)
 http://14.192.144.14:8000/play/a00f/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport ESPN
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3571
@@ -17,6 +17,16 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3573
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport 1
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3574
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",SkynetSport
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",ChampionTV 1 (Vidio)
+https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6685
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",ChampionTV 2 (Vidio)
+https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6686
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",ChampionTV 3 (Vidio)
+https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6786
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Champion TV 1
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Champion TV 2
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion2
 http://4digital.ddns.net:11223/ts/0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",CCTV5
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4389
@@ -82,16 +92,7 @@ https://vewvew.com:8443/mamana/12345/229659
 https://vewvew.com:8443/mamana/12345/229660
 #EXTINF:-1 group-title="Sport",World Bein_Sport_4_Mena
 https://vewvew.com:8443/mamana/12345/229661
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ChampionTV 1 (Vidio)
-https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6685
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ChampionTV 2 (Vidio)
-https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6686
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ChampionTV 3 (Vidio)
-https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6786
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Champion TV 1
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Champion TV 2
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion2
+
 #EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 1
 https://vewvew.com:8443/mamana/12345/227639
 #EXTINF:-1 group-title="Sport",PT ELEVEN SPORTS 1 HD
