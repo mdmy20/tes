@@ -1,5 +1,30 @@
-#EXTINF:-1 group-title="Champions League",Champion
-https://cdn11jtedge.useetv.com/joss/15/nba/chunklist_w1862565399_b1344100_sleng_kamiselaluada.m3u8?enc=5VCajJfh-qovEFm-R1c14A&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613502029
+
+#EXTINF:-1 tvg-id="" tvg-name="Vip  Bt Sport 2 Hd 1080P" tvg-logo="" group-title="Champions League",Vip  Bt Sport 2 Hd 1080P
+http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3HoOdWtL2Uyr1U6J4TM8nR5btm1JY6l6fXvTMsauYvk4=
+#EXTINF:-1 tvg-id="" tvg-name="Vip  Bt Sport 3 Hd 1080P" tvg-logo="" group-title="Champions League",Vip  Bt Sport 3 Hd 1080P
+http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu39Hl5xMWYiw5wsI3KZlAhPmA+B0QpmlvINbbBycr1sBk=
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sky Sport 1 Hd (1080P)" tvg-logo="" group-title="Champions League",Vip Sky Sport 1 Hd (1080P)
+http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3faTkZAB+jL9HEPu4JZyH1wfaxs/PjcYHDnkZC4szD3o=
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sky Sport 10 Hd (1080P)" tvg-logo="" group-title="Champions League",Vip Sky Sport 10 Hd (1080P)
+http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3faTkZAB+jL9HEPu4JZyH1zIZE/lemx+EB4dh7xhEEyI=
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sky Sport 11 Hd (1080P)" tvg-logo="" group-title="Champions League",Vip Sky Sport 11 Hd (1080P)
+http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3faTkZAB+jL9HEPu4JZyH18KswMLJIE0lu/1aVLauTMo=
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sky Sport 2 Hd (1080P)" tvg-logo="" group-title="Champions League",Vip Sky Sport 2 Hd (1080P)
+http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3faTkZAB+jL9HEPu4JZyH13g1k4gVt1RTlyPKSZ3X3lQ=
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sky Sport 3 Hd (1080P)" tvg-logo="" group-title="Champions League",Vip Sky Sport 3 Hd (1080P)
+http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3faTkZAB+jL9HEPu4JZyH1yzoFCT83tszmPzPOiWx92I=
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sky Sport 4 Hd (1080P)" tvg-logo="" group-title="Champions League",Vip Sky Sport 4 Hd (1080P)
+http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3faTkZAB+jL9HEPu4JZyH168pFrNU7lH9pDr/zTF0ycI=
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sky Sport 5 Hd (1080P)" tvg-logo="" group-title="Champions League",Vip Sky Sport 5 Hd (1080P)
+http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3/JMJRMueQfKSEu8NiiiQ+QyPZ32l5YrPhdT52TT0Oqw=
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sky Sport 6 Hd (1080P)" tvg-logo="" group-title="Champions League",Vip Sky Sport 6 Hd (1080P)
+http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3/JMJRMueQfKSEu8NiiiQ+dPNwphzm5k3jXE/0tRE8nU=
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sky Sport 7 Hd (1080P)" tvg-logo="" group-title="Champions League",Vip Sky Sport 7 Hd (1080P)
+http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3/JMJRMueQfKSEu8NiiiQ+QOsd0pGSISHr/e8wNJ8ins=
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sky Sport 8 Hd (1080P)" tvg-logo="" group-title="Champions League",Vip Sky Sport 8 Hd (1080P)
+http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3/JMJRMueQfKSEu8NiiiQ+c0GKKOy0IPWwNc6whcNuqQ=
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sky Sport 9 Hd (1080P)" tvg-logo="" group-title="Champions League",Vip Sky Sport 9 Hd (1080P)
+http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3/JMJRMueQfKSEu8NiiiQ+VfVlHfdkE85CXumEqhLDDM=
 #EXTINF:-1 group-title="Champions League",Champion Tv 1 HD
 https://cdn11jtedge.useetv.com/joss/15/champion1/chunklist_w1082535112_b1344100_sleng_kamiselaluada.m3u8?enc=V35Y1J3q4HEqm0AwemjKQg&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613502029
 #EXTINF:-1 group-title="Champions League",Champion Tv 2 HD
