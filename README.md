@@ -199,6 +199,10 @@ https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_mid
 http://14.192.144.14:8000/play/a01n/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Fashion tv
 https://bozztv.com:443/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
+#EXTINF:-1, group-title="group-title="Pilihan",Nat Geo Wild HD US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/7692.m3u8
+#EXTINF:-1, group-title="group-title="Pilihan",Nat Geographic HD US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/7691.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.imgur.com/u9uPPgo.jpg" group-title="group-title="Pilihan",RTM TV 1 (1080p)
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
