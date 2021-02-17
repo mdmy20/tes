@@ -59,18 +59,19 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Red Bull TV (720p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN (872p)
-https://cdn008.teleuptv.net/aG0SpRUVhW/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN 2 (872p)
-https://cdn008.teleuptv.net/lhD6XFkRND/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN 2
-https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN News
-https://gma2.blab.email/espnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN U
-https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Sport",Esport Club (1080p)
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/123
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8962.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ESPN 1 FHD VIP US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/10212.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ESPN 1 HD VIP US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8999.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ESPN 1 VIP US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/10188.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ESPN 2 FHD VIP US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/10186.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ESPN 2 HD VIP US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8998.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ESPN 2 VIP US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/10187.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",RTM 
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/163
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Arena
@@ -196,6 +197,20 @@ _Pilihan_
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/2937.m3u8
 #EXTINF:-1  group-title="Pilihan",HGTV +1 UK
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1869.m3u8
+#EXTINF:-1 group-title="Pilihan",Home & Health VIP UK
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/10712.m3u8
+#EXTINF:-1 group-title="Pilihan",Home VIP UK
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/10703.m3u8
+#EXTINF:-1 group-title="Pilihan",HGTV HD VIP US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/9006.m3u8
+#EXTINF:-1 group-title="Pilihan",History HD VIP US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8953.m3u8
+#EXTINF:-1 group-title="Pilihan",IndiePlex FHD VIP US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/11792.m3u8
+#EXTINF:-1 group-title="Pilihan",Investigation Discovery HD VIP US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8951.m3u8
+#EXTINF:-1 group-title="Pilihan",Lifetime HD VIP US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8988.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan" tvg-id="" tvg-name"FashionTV ",FashionTV 
 https://warkop.xyz/m3u/fashiontv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan" tvg-id="" tvg-name"FashionTV ",FashionTV Midnight
