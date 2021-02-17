@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="Champions League",BT SPORT 1 FHD
+just#EXTINF:-1 group-title="Champions League",BT SPORT 1 FHD
 http://iptvnow.me:8080/jajaban/12345/78765
 #EXTINF:-1 group-title="Champions League",BT SPORT 1 HD
 http://iptvnow.me:8080/jajaban/12345/78766
@@ -14,6 +14,7 @@ http://iptvnow.me:8080/jajaban/12345/78770
 http://iptvnow.me:8080/jajaban/12345/78771
 #EXTINF:-1 group-title="Champions League",BT Sport ESPN HD
 http://iptvnow.me:8080/jajaban/12345/78772
+123
 ##EXTINF:-1 tvg-id="" tvg-name="Bt Sport 1 Backup" tvg-logo="" group-title="Champions League",Bt Sport 1 Backup
 http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3Tml7cil/StrUb1EhKYafHRhesU4qX2TITtGUl1y1bTk=
 #EXTINF:-1 tvg-id="" tvg-name="Bt Sport 1 Hd" tvg-logo="" group-title="Champions League",Bt Sport 1 Hd
