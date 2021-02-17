@@ -1,70 +1,11 @@
-just#EXTINF:-1 group-title="Champions League",BT SPORT 1 FHD
-http://iptvnow.me:8080/jajaban/12345/78765
-#EXTINF:-1 group-title="Champions League",BT SPORT 1 HD
-http://iptvnow.me:8080/jajaban/12345/78766
-#EXTINF:-1 group-title="Champions League",BT SPORT 2 FHD
-http://iptvnow.me:8080/jajaban/12345/78767
-#EXTINF:-1 group-title="Champions League",BT SPORT 2 HD
-http://iptvnow.me:8080/jajaban/12345/78768
-#EXTINF:-1 group-title="Champions League",BT SPORT 3 HD
-http://iptvnow.me:8080/jajaban/12345/78769
-#EXTINF:-1 group-title="Champions League",BT SPORT 3 HD
-http://iptvnow.me:8080/jajaban/12345/78770
-#EXTINF:-1 group-title="Champions League",BT SPORT ESPN
-http://iptvnow.me:8080/jajaban/12345/78771
-#EXTINF:-1 group-title="Champions League",BT Sport ESPN HD
-http://iptvnow.me:8080/jajaban/12345/78772
-123
-##EXTINF:-1 tvg-id="" tvg-name="Bt Sport 1 Backup" tvg-logo="" group-title="Champions League",Bt Sport 1 Backup
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3Tml7cil/StrUb1EhKYafHRhesU4qX2TITtGUl1y1bTk=
-#EXTINF:-1 tvg-id="" tvg-name="Bt Sport 1 Hd" tvg-logo="" group-title="Champions League",Bt Sport 1 Hd
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3Ztz9qeCLu7baVSK6LUu//0OfIlIMeGgJ0+wC6yR6Gpw=
-#EXTINF:-1 tvg-id="" tvg-name="Bt Sport 2 Hd" tvg-logo="" group-title="Champions League",Bt Sport 2 Hd
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3Ztz9qeCLu7baVSK6LUu//20lU1ui5nOuFmO5m+RMOGM=
-#EXTINF:-1 tvg-id="" tvg-name="Bt Sport 3 Hd" tvg-logo="" group-title="Champions League",Bt Sport 3 Hd
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3fb4G8xG0VFamP/yzmysGF+WyGLINYTTXCHJ44qz8y40=
-#EXTINF:-1 tvg-id="" tvg-name="Bt Sport 3 Sd" tvg-logo="" group-title="Champions League",Bt Sport 3 Sd
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3U9b64/fwZDsNKVAzpylwuEHHgxbIJM+OXPMVyCxPSi4=
-#EXTINF:-1 tvg-id="" tvg-name="Bt Sport Espn" tvg-logo="" group-title="Champions League",Bt Sport Espn
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3Ztz9qeCLu7baVSK6LUu//xe8waXFTLhVzwjtwyNhOg8=
-#EXTINF:-1 tvg-id="" tvg-name="Bt Sport Extra 1" tvg-logo="" group-title="Champions League",Bt Sport Extra 1
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3U9b64/fwZDsNKVAzpylwuAn+/8LAuKH1g1tuc382K+M=
-#EXTINF:-1 tvg-id="" tvg-name="Bt Sport Extra 2" tvg-logo="" group-title="Champions League",Bt Sport Extra 2
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3U9b64/fwZDsNKVAzpylwuKYQM2Kbm4RnZC54wGTMu0o=
-#EXTINF:-1 tvg-id="" tvg-name="Bt Sport Extra 4" tvg-logo="" group-title="Champions League",Bt Sport Extra 4
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3U9b64/fwZDsNKVAzpylwuHr5r6OHYPZRc0jogQlUXao=
-#EXTINF:-1 tvg-id="" tvg-name="Bt Champions League 2 Sd" tvg-logo="" group-title="Champions League",Bt Champions League 2 Sd
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3U9b64/fwZDsNKVAzpylwuPsSC7wxRe0WUeNPNeCJPhI=
-#EXTINF:-1 group-title="Champions League",Champion Tv 1 HD
-https://cdn11jtedge.useetv.com/joss/15/champion1/chunklist_w1082535112_b1344100_sleng_kamiselaluada.m3u8?enc=V35Y1J3q4HEqm0AwemjKQg&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613502029
-#EXTINF:-1 group-title="Champions League",Champion Tv 2 HD
-https://cdn11jtedge.useetv.com/joss/15/champion2/chunklist_w278083658_b1344100_sleng_kamiselaluada.m3u8?enc=ti5RlQ2WIxVT-4Iw_KTG9g&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613502029
-#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Select Fhd 1080" tvg-logo="" group-title="Champions League",Ziggo Sport Select Fhd 1080
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3smZtolM8Ux81KSz8/gAXqWoOlMbSFJP4QcMjiEdkVUs=
-#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Select Hd" tvg-logo="" group-title="Champions League",Ziggo Sport Select Hd
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3HGZopy9NLf/xkFnGhTjAww9S3hVHbnn2mjiqoOVJmRA=
-#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport.Voetbal" tvg-logo="" group-title="Champions League",Ziggo Sport.Voetbal
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3HGZopy9NLf/xkFnGhTjAwwizdEyYRy37pHJD/7bBO9A=
+
 #EXTINF:-1 group-title="Champions League",Champion Tv 1
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion1
 #EXTINF:-1 group-title="Champions League",Champion Tv 2
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion2
 #EXTINF:-1 group-title="Champions League",Skynet Myanmar
 http://4digital.ddns.net:11223/ts/0
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Champions League 1(1)" tvg-logo="" group-title="Champions League",Skynet Champions League 1(1)
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3vQ+TYQNYJEyJYU/bzXXLxNlqfDF+WpeHheBI9H83fWk=
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Champions League 2(1)" tvg-logo="" group-title="Champions League",Skynet Champions League 2(1)
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3vQ+TYQNYJEyJYU/bzXXLxMKcDx1y/R5csbjO1IgTU+0=
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Champions League 3(1)" tvg-logo="" group-title="Champions League",Skynet Champions League 3(1)
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3vQ+TYQNYJEyJYU/bzXXLxK4B6JLVT2+KBvcVI2USePQ=
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Champions League 4(1)" tvg-logo="" group-title="Champions League",Skynet Champions League 4(1)
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3vQ+TYQNYJEyJYU/bzXXLxC87y3n3KaIqLAB6wyCB9k8=
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Champions League 5(1)" tvg-logo="" group-title="Champions League",Skynet Champions League 5(1)
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3vQ+TYQNYJEyJYU/bzXXLxMdYWj9bOict7ZXCoxwJzo0=
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Champions League 6(1)" tvg-logo="" group-title="Champions League",Skynet Champions League 6(1)
-http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3vQ+TYQNYJEyJYU/bzXXLxP/J/e2VHfI4YguIfSumfsM=
-#EXTINF:-1 group-title="Champions League",Ziggo Sport 
-http://iptvnow.me:8080/jajaban/12345/93906
+
 #EXTINF:-1 group-title="Champions League",DE | Sky Sport 1 HD
 http://iptvnow.me:8080/jajaban/12345/91592
 #EXTINF:-1 group-title="Champions League",DE | Sky Sport 2 HD
@@ -79,101 +20,16 @@ http://iptvtree.net:8080/Line1051/f4fffd47/56190
 #EXTINF:-1 group-title="Champions League",Sony Ten 3 HD(setAuto)
 http://14.192.144.14:8000/play/a00f/index.m3u8
 
-#EXTINF:-1 group-title="Champions League",World DAZN1_DE
-https://vewvew.com:8443/mamana/12345/229668
-#EXTINF:-1 group-title="Champions League",World DAZN2_DE
-https://vewvew.com:8443/mamana/12345/229669
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",CCTV5
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4389
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",CCTV5+
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4390
-#EXTINF:-1 group-title="Champions League",MY Astro bEIN MAX
-https://vewvew.com:8443/mamana/12345/227136
-#EXTINF:-1 group-title="Champions League",USA TUDN
-https://vewvew.com:8443/mamana/12345/229376
-#EXTINF:-1 group-title="Champions League",World Bein_Sport_1_Mena
-https://vewvew.com:8443/mamana/12345/229654
-#EXTINF:-1 group-title="Champions League",World Bein_Sport_11_Mena
-https://vewvew.com:8443/mamana/12345/229656
-#EXTINF:-1 group-title="Champions League",World Bein_Sport_2_Mena
-https://vewvew.com:8443/mamana/12345/229659
-#EXTINF:-1 group-title="Champions League",World Bein_Sport_3_Mena
-https://vewvew.com:8443/mamana/12345/229660
-#EXTINF:-1 group-title="Champions League",World Bein_Sport_4_Mena
-https://vewvew.com:8443/mamana/12345/229661
-
-#EXTINF:-1 group-title="Champions League",RMC SPORT 1 HD
-http://iptvnow.me:8080/jajaban/12345/88344
-#EXTINF:-1 group-title="Champions League",RMC SPORT 2 HD
-http://iptvnow.me:8080/jajaban/12345/88345
-#EXTINF:-1 group-title="Champions League",RMC SPORT 3 HD
-http://iptvnow.me:8080/jajaban/12345/88346
-#EXTINF:-1 group-title="Champions League",RMC SPORT 4 HD
-http://iptvnow.me:8080/jajaban/12345/88347
-#EXTINF:-1 group-title="Champions League",MOVISTAR LIGA DE CAMPEONES HD
-http://iptvnow.me:8080/jajaban/12345/86849
-#EXTINF:-1 group-title="Champions League",MOVISTAR LIGA DE CAMPEONES H265
-http://iptvnow.me:8080/jajaban/12345/86850
-#EXTINF:-1 group-title="Champions League",LIGA DE CAMPEONES 1
-http://iptvnow.me:8080/jajaban/12345/86851
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport ESPN
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3914
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport 2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3915
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport 3
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3916
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",BT Sport 1
-#EXTINF:-1 group-title="Champions League",ES: LIGA DE CAMPEONES 2
-http://iptvnow.me:8080/jajaban/12345/86852
 
 
 
-#EXTINF:-1 group-title="Champions League",PT ELEVEN Champions League 1
-https://vewvew.com:8443/mamana/12345/227639
-#EXTINF:-1 group-title="Champions League",PT ELEVEN Champions League 1 HD
-https://vewvew.com:8443/mamana/12345/227640
-#EXTINF:-1 group-title="Champions League",PT ELEVEN Champions League 2
-https://vewvew.com:8443/mamana/12345/227641
-#EXTINF:-1 group-title="Champions League",PT ELEVEN Champions League 2 HD
-https://vewvew.com:8443/mamana/12345/227642
-#EXTINF:-1 group-title="Champions League",PT ELEVEN Champions League 3
-https://vewvew.com:8443/mamana/12345/227643
-#EXTINF:-1 group-title="Champions League",PT ELEVEN Champions League 3 HD
-https://vewvew.com:8443/mamana/12345/227644
-#EXTINF:-1 group-title="Champions League",PT ELEVEN Champions League 4
-https://vewvew.com:8443/mamana/12345/227645
-#EXTINF:-1 group-title="Champions League",PT ELEVEN Champions League 4 HD
-https://vewvew.com:8443/mamana/12345/227646
-#EXTINF:-1 group-title="Champions League",PT ELEVEN Champions League 5
-https://vewvew.com:8443/mamana/12345/227647
-#EXTINF:-1 group-title="Champions League",PT ELEVEN Champions League 5 HD
-https://vewvew.com:8443/mamana/12345/227648
-#EXTINF:-1 group-title="Champions League",PT ELEVEN Champions League 6
-https://vewvew.com:8443/mamana/12345/227649
-#EXTINF:-1 group-title="Champions League",PT ELEVEN Champions League 6 HD
-https://vewvew.com:8443/mamana/12345/227650
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/true1.png" group-title="Champions League", True Premier 1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/true2.png" group-title="Champions League", True Premier 2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/true3.png" group-title="Champions League", True Premier 3
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/true4.png" group-title="Champions League", True Premier 4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/true5.png" group-title="Champions League", True Premier 5
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/trueChampions League.png" group-title="Champions League", TrueSport 1
-https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/trueChampions League2.png" group-title="Champions League", TrueSport 2 FHD
-http://36.37.252.114:888/Apple/OneTV-034/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/trueChampions League2.png" group-title="Champions League", TrueSport 2
-https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/trueChampions League3.png" group-title="Champions League", TrueSport 3
-https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/trueChampions League4.png" group-title="Champions League", TrueSport 4
-https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/trueChampions League5.png" group-title="Champions League", TrueSport 5
+
+12
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Racing" tvg-logo="" group-title="Sport",Ziggo Sport Racing
 http://live.crowiptv.com/Play?Id=q9ePyzmGgB6tPFZ/9PjMLnWu2eoJqSbds5zxY4L/y5tIQJ4A1WIAeNEJmfRg7BjHLb4NRMKJRpjnXnN6ntpf1PNxQtWTvV4TOhUXpeAm9FOzxcLhh0eRJvi0dbv2Omu3HGZopy9NLf/xkFnGhTjAw0VQmnuYnbG3kT4t2tcgY2s=
