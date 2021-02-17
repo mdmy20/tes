@@ -163,7 +163,7 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4149
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ARENA_HD
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4195
 
-
+_Pilihan_
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan" tvg-id="" tvg-name"FashionTV ",FashionTV 
 https://warkop.xyz/m3u/fashiontv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan" tvg-id="" tvg-name"FashionTV ",FashionTV Midnight
@@ -173,6 +173,10 @@ http://14.192.144.14:8000/play/a01n/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Fashion tv
 https://bozztv.com:443/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
 https://nonton.site:8443/novi/novi123/37450
+#EXTINF:-1   tvg-logo="https://i.imgur.com/u9uPPgo.jpg" group-title="group-title="Pilihan",RTM TV 1 (1080p)
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="group-title="Pilihan",RTM TV 2 (1080p)
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",NGW HD
 https://nonton.site:8443/novi/novi123/37388
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",NAT GEO HD
