@@ -65,28 +65,10 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3460
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3545
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",FOX Sport 2
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3546
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Eleven Sport 1
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3547
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Eleven Sport 2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3548
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ELEVEN Champions League PLUS
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3549
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Edge Sport
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3563
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Ginx电竞
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3564
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",广东体育
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3565
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NOW Champions League
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3566
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",jChampions League
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3567
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",jsport2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3568
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",jsport3
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3569
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",jsport4
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3570
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="Sport" tvg-id="" tvg-name"beIN Sport 1 ",beIN Sport 1 
+https://warkop.xyz/m3u/bein1.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="Sport" tvg-id="" tvg-name"beIN Sport 2 ",beIN Sport 2 
+https://warkop.xyz/m3u/bein2.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
 http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
@@ -165,45 +147,10 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3961
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3962
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NHL Network
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3963
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Bein Champions League USA
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Bein SportUSA
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3964
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ESPN U
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3965
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Big Ten Network
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3966
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",jChampions League
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3741
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",jsport2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3742
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",jsport3
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3743
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",jsport4
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3744
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",GaoRa
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3746
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Spotv
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3797
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Spotv2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3798
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SBS 
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3808
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Free Sport
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4100
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",TSN 3
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4046
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",TSN 4
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4047
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",TSN 5
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4048
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SportNet ON
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4049
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SportNet One
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4050
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SportNet World
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4051
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SportNet 360
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4052
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NBA CA
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4053
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",TSN 2
@@ -216,8 +163,33 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4149
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4195
 
 
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/hgtv.png" group-title="Pilihan", HGTV
-https://cdn11jtedge.useetv.com/joss/15/hgtv/chunklist_w1092819950_b1344100_sleng_kamiselaluada.m3u8?enc=tbyHDpHAwCFI2KhJ2MGFug&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613502028
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan" tvg-id="" tvg-name"FashionTV ",FashionTV 
+https://warkop.xyz/m3u/fashiontv.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan" tvg-id="" tvg-name"FashionTV ",FashionTV Midnight
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="LIFESTYLE" tvg-id="" tvg-name"HGTV ",HGTV 
+https://warkop.xyz/m3u/hgtv.m3u8
+#EXTINF:-1 tvg-logo="https://warkop.xyz/logo/lovenature.png" group-title="Pilihan", Love Nature 4K
+https://warkop.xyz/m3u/vidio-lovenature.m3u8
+#EXTINF:-1 tvg-logo="https://warkop.xyz/logo/smitsonian.png" group-title="Pilihan",Smithsonian
+https://warkop.xyz/m3u/vidio-smitsonian.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Pilihan" tvg-id="" tvg-name"Nat Geo ",Nat Geo 
+https://warkop.xyz/m3u/natgeo.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Pilihan" tvg-id="" tvg-name"Nat Geo People ",Nat Geo People 
+https://warkop.xyz/m3u/natgeopeople.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="Pilihan" tvg-id="" tvg-name"Nat Geo Wild ",Nat Geo Wild 
+https://warkop.xyz/m3u/natgeowild.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="Pilihan" tvg-id="" tvg-name"Discovery Channel ",Discovery Channel 
+https://warkop.xyz/m3u/disco.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Pilihan" tvg-id="" tvg-name"Crime Investigation ",Crime Investigation 
+https://warkop.xyz/m3u/crimeinvestigation.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png" group-title="Pilihan" tvg-id="" tvg-name"CGTN Documentary ",CGTN Documentary 
+https://warkop.xyz/m3u/cgtndocumentary.m3u8
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="Pilihan" tvg-id="" tvg-name"History ",History 
+https://warkop.xyz/m3u/history.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Pilihan" tvg-id="" tvg-name"Lingua ",Lingua 
+https://warkop.xyz/m3u/lingua.m3u8
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony BBC EarHD(setAuto)
 http://14.192.144.14:8000/play/a01n/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",BBC Earth HD
