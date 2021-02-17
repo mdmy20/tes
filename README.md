@@ -1,30 +1,4 @@
 _Champions League_
-#EXTINF:-1  group-title="Champions League",BT Sport 1 HD UK
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/370.m3u8
-#EXTINF:-1, group-title="Champions League",BT Sport 1 UK
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/369.m3u8
-#EXTINF:-1, group-title="Champions League",BT Sport 2 HD UK
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/368.m3u8
-#EXTINF:-1, group-title="Champions League",BT Sport 2 UK
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/367.m3u8
-#EXTINF:-1, group-title="Champions League",BT Sport 3 HD UK
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/366.m3u8
-#EXTINF:-1, group-title="Champions League",BT Sport 3 UK
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/365.m3u8
-#EXTINF:-1, group-title="Champions League",BT Sport ESPN HD UK
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1743.m3u8
-#EXTINF:-1, group-title="Champions League",BT Sport ESPN UK
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1819.m3u8
-#EXTINF:-1, group-title="Champions League",BT Sport Extra 1 UK
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1818.m3u8
-#EXTINF:-1, group-title="Champions League",BT Sport Extra 2 UK
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1817.m3u8
-#EXTINF:-1, group-title="Champions League",BT Sport Extra 3 UK
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1816.m3u8
-#EXTINF:-1 group-title="Champions League",,BT Sport Extra 4 UK
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1815.m3u8
-#EXTINF:-1 group-title="Champions League",,BT Sport Extra 5 UK
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1814.m3u8
 #EXTINF:-1 group-title="Champions League",Champion Tv 1
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion1
 #EXTINF:-1 group-title="Champions League",Champion Tv 2
@@ -193,24 +167,15 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4195
 
 _Pilihan_
 
-#EXTINF:-1 group-title="Pilihan",BBC Earth HD SE
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/2937.m3u8
-#EXTINF:-1  group-title="Pilihan",HGTV +1 UK
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1869.m3u8
-#EXTINF:-1 group-title="Pilihan",Home & Health VIP UK
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/10712.m3u8
-#EXTINF:-1 group-title="Pilihan",Home VIP UK
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/10703.m3u8
-#EXTINF:-1 group-title="Pilihan",HGTV HD VIP US
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/9006.m3u8
-#EXTINF:-1 group-title="Pilihan",History HD VIP US
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8953.m3u8
-#EXTINF:-1 group-title="Pilihan",IndiePlex FHD VIP US
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/11792.m3u8
-#EXTINF:-1 group-title="Pilihan",Investigation Discovery HD VIP US
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8951.m3u8
-#EXTINF:-1 group-title="Pilihan",Lifetime HD VIP US
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8988.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",BBC Earth HD
+https://nonton.site:8443/novi/novi123/37449
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony BBC EarHD(setAuto)
+http://14.192.144.14:8000/play/a01n/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",BBC Lifestyle
+https://nonton.site:8443/novi/novi123/37450
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",HGTV HD
+https://nonton.site:8443/novi/novi123/37416
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan" tvg-id="" tvg-name"FashionTV ",FashionTV 
 https://warkop.xyz/m3u/fashiontv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan" tvg-id="" tvg-name"FashionTV ",FashionTV Midnight
@@ -219,30 +184,35 @@ https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_mid
 http://14.192.144.14:8000/play/a01n/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Fashion tv
 https://bozztv.com:443/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
-#EXTINF:-1 group-title="group-title="Pilihan",Nat Geo Wild HD US
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/7692.m3u8
-#EXTINF:-1 group-title="group-title="Pilihan",Nat Geographic HD US
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/7691.m3u8
+https://nonton.site:8443/novi/novi123/36729
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Asia
+https://nonton.site:8443/novi/novi123/779
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Channel HD
+https://nonton.site:8443/novi/novi123/165
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Science HD
+https://nonton.site:8443/novi/novi123/408
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Shed
+https://nonton.site:8443/novi/novi123/333
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Turbo
+https://nonton.site:8443/novi/novi123/462
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",History FHD
+https://nonton.site:8443/novi/novi123/8131
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",History HD
+https://nonton.site:8443/novi/novi123/718
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Lingua Channel
+https://nonton.site:8443/novi/novi123/14944
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Love Nature 4K
+https://nonton.site:8443/novi/novi123/36767
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Nat Geo HD
+https://nonton.site:8443/novi/novi123/96
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Nat Geo People HD
+https://nonton.site:8443/novi/novi123/455
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Nat Geo Wild HD
 
 #EXTINF:-1   tvg-logo="https://i.imgur.com/u9uPPgo.jpg" group-title="group-title="Pilihan",RTM TV 1 (1080p)
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="group-title="Pilihan",RTM TV 2 (1080p)
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-#EXTINF:-1 group-title="Pilihan",MSNBC HD (Web) US
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/16058.m3u8
-#EXTINF:-1 group-title="Pilihan",Nat. Geo Wild HD VIP US
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8949.m3u8
-#EXTINF:-1 group-title="Pilihan",Nat. Geographic HD VIP US
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8948.m3u8
-#EXTINF:-1group-title="Pilihan",NBC Golf HD VIP US
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8986.m3u8
-#EXTINF:-1 group-title="Pilihan",NBC News HD VIP US
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8985.m3u8
-#EXTINF:-1 group-title="Pilihan",NBC San Diego HD VIP US
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/10135.m3u8
-#EXTINF:-1 group-title="Pilihan",NBCSN HD VIP US
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8984.m3u8
-
 
 
 
