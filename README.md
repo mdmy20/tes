@@ -184,12 +184,6 @@ http://mags.vip:2086/live/miriam/miriam123/4212.ts?checkedby:iptvcat.net
 http://104.218.60.68:83/a0w10NwSwz/35222020350823A324475658352020/13?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Pilihan",HGTV (TV)(1080)
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53878?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Pilihan",HGTV East HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/86030?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Pilihan",HGTV FHD 1080
-http://mags.vip:2086/live/miriam/miriam123/64101.ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Pilihan",HGTV FHD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/137174.ts?checkedby:iptvcat.net
 
 #EXTINF:-1   tvg-logo="https://i.imgur.com/u9uPPgo.jpg" group-title="group-title="Pilihan",RTM TV 1 (1080p)
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
@@ -197,44 +191,20 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Pilihan",ANIMAL PLANET
 http://mags.vip:2086/live/miriam/miriam123/72567.ts?checkedby:iptvcat.net
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",ANIMAL PLANET 2
-http://stream.streamhubtv.xyz:8080/HOME1/HOME1/47909?checkedby:iptvcat.net
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Blue Ant Entertainment
-https://nonton.site:8443/novi/novi123/37451
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Blue Ant Extreme
-https://nonton.site:8443/novi/novi123/37452
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Boomerang HD
-https://nonton.site:8443/novi/novi123/37453
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Cinema World HD
-https://nonton.site:8443/novi/novi123/37454
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Colors Cineplex
-https://nonton.site:8443/novi/novi123/37455
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Dreamworks HD
-https://nonton.site:8443/novi/novi123/37456
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",FOX Life HD
-https://nonton.site:8443/novi/novi123/37457
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",FOX Movies HD
-https://nonton.site:8443/novi/novi123/37458
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Jaya Max
-https://nonton.site:8443/novi/novi123/37459
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",MTV Asia
-https://nonton.site:8443/novi/novi123/37460
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",RTM Champions League
-https://nonton.site:8443/novi/novi123/37461
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Paramount Channel
-https://nonton.site:8443/novi/novi123/37462
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony SAB
-https://nonton.site:8443/novi/novi123/37463
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony SetMAX
-https://nonton.site:8443/novi/novi123/37464
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony TV
-https://nonton.site:8443/novi/novi123/37465
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Travel Channel HD
-https://nonton.site:8443/novi/novi123/37466
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Astro Rania HD
-https://nonton.site:8443/novi/novi123/37467
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Astro Aura HD
-https://nonton.site:8443/novi/novi123/37468
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Pilihan",NAT GEO HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/137345.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Pilihan",NAT GEO WILD
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22569?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Pilihan",NAT GEO People
+http://plustlc.com:8080/live/huseyin61/24.10.2020/129635.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Pilihan",Discovery Channel HD
+https://allvue.live:443/alan/alan/55929?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Pilihan",DISCOVERY TURBO XTRA
+https://allvue.live:443/alan/alan/488831?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Pilihan",H&h
+http://plustlc.com:8080/live/huseyin61/24.10.2020/129540.ts?checkedby:iptvcat.net
+
 
 
 
