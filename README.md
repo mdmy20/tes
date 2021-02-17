@@ -212,36 +212,6 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvest
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony BBC EarHD(setAuto)
 http://14.192.144.14:8000/play/a01n/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",BBC Earth HD
-https://nonton.site:8443/novi/novi123/37449
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Nat Geo People HD
-https://nonton.site:8443/novi/novi123/455
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",BBC Lifestyle
-http://14.192.144.14:8000/play/a01n/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Asia
-https://nonton.site:8443/novi/novi123/779
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Channel HD
-https://nonton.site:8443/novi/novi123/165
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Science HD
-https://nonton.site:8443/novi/novi123/408
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Shed
-https://nonton.site:8443/novi/novi123/333
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Turbo
-https://nonton.site:8443/novi/novi123/462
-#EXTINF:-1   tvg-logo="https://i.postimg.c
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",TV8
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/155
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",TV1
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4189
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",TV2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4190
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",TV8
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4191
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",TV9
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4192
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Warna
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/180
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",HGTV
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/194
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Animal Planet (Eng)
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",NatGeo Wild HD
