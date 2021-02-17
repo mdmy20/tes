@@ -206,8 +206,8 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Pilihan",ANIMAL PLANET
 http://mags.vip:2086/live/miriam/miriam123/72567.ts?checkedby:iptvcat.net
-#EXTINF:-1   tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="group-title="Pilihan",Discovery Home & Health +1 UK
-#EXTINF:-1   tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="group-title="Pilihan",HGTV +1 UK
+#EXTINF:-1   group-title="group-title="Pilihan",Discovery Home & Health +1 UK
+#EXTINF:-1   group-title="Pilihan",HGTV +1 UK
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1869.m3u8
 
 
