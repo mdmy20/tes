@@ -11,12 +11,13 @@ http://iptvnow.me:8080/jajaban/12345/91592
 http://iptvnow.me:8080/jajaban/12345/91593
 #EXTINF:-1 group-title="Champions League",IN: Sony SIX HD
 http://iptvtree.net:8080/Line1051/f4fffd47/4853
-#EXTINF:-1 group-title="Champions League",IN: Sony TEN 1 HD
+#EXTINF:-1  group-title="Champions League",SONY TEN 1 HD
 http://iptvtree.net:8080/Line1051/f4fffd47/74893
-#EXTINF:-1 group-title="Champions League",IN: Sony TEN 2 HD
+#EXTINF:-1  group-title="Champions League",SONY TEN 2 HD
 http://iptvtree.net:8080/Line1051/f4fffd47/56190
-#EXTINF:-1 group-title="Champions League",Sony Ten 3 HD(setAuto)
-http://14.192.144.14:8000/play/a00f/index.m3u8
+#EXTINF:-1  group-title="Champions League",SONY TEN 3 HD
+http://iptvtree.net:8080/Line1051/f4fffd47/56191
+
 #EXTINF:-1 group-title="Champions League",MY Astro bEIN MAX
 https://vewvew.com:8443/mamana/12345/227136
 
