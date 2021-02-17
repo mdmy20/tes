@@ -1,29 +1,29 @@
 _Champions League_
-#EXTINF:-1,group-title="Champions League"BT Sport 1 HD UK
+#EXTINF:-1  group-title="Champions League",BT Sport 1 HD UK
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/370.m3u8
-#EXTINF:-1,group-title="Champions League"BT Sport 1 UK
+#EXTINF:-1, group-title="Champions League",BT Sport 1 UK
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/369.m3u8
-#EXTINF:-1,group-title="Champions League"BT Sport 2 HD UK
+#EXTINF:-1, group-title="Champions League",BT Sport 2 HD UK
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/368.m3u8
-#EXTINF:-1,group-title="Champions League"BT Sport 2 UK
+#EXTINF:-1, group-title="Champions League",BT Sport 2 UK
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/367.m3u8
-#EXTINF:-1,group-title="Champions League"BT Sport 3 HD UK
+#EXTINF:-1, group-title="Champions League",BT Sport 3 HD UK
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/366.m3u8
-#EXTINF:-1,group-title="Champions League"BT Sport 3 UK
+#EXTINF:-1, group-title="Champions League",BT Sport 3 UK
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/365.m3u8
-#EXTINF:-1,group-title="Champions League"BT Sport ESPN HD UK
+#EXTINF:-1, group-title="Champions League",BT Sport ESPN HD UK
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1743.m3u8
-#EXTINF:-1,group-title="Champions League"BT Sport ESPN UK
+#EXTINF:-1, group-title="Champions League",BT Sport ESPN UK
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1819.m3u8
-#EXTINF:-1,group-title="Champions League"BT Sport Extra 1 UK
+#EXTINF:-1, group-title="Champions League",BT Sport Extra 1 UK
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1818.m3u8
-#EXTINF:-1,group-title="Champions League"BT Sport Extra 2 UK
+#EXTINF:-1, group-title="Champions League",BT Sport Extra 2 UK
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1817.m3u8
-#EXTINF:-1,group-title="Champions League"BT Sport Extra 3 UK
+#EXTINF:-1, group-title="Champions League",BT Sport Extra 3 UK
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1816.m3u8
-#EXTINF:-1 group-title="Champions League",BT Sport Extra 4 UK
+#EXTINF:-1 group-title="Champions League",,BT Sport Extra 4 UK
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1815.m3u8
-#EXTINF:-1 group-title="Champions League",BT Sport Extra 5 UK
+#EXTINF:-1 group-title="Champions League",,BT Sport Extra 5 UK
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1814.m3u8
 #EXTINF:-1 group-title="Champions League",Champion Tv 1
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion1
@@ -199,17 +199,6 @@ https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_mid
 http://14.192.144.14:8000/play/a01n/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Fashion tv
 https://bozztv.com:443/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
-https://nonton.site:8443/novi/novi123/37450
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Pilihan",HGTV (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Pilihan",HGTV
-http://mags.vip:2086/live/jav/jav123/4212.ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Pilihan",HGTV
-http://mags.vip:2086/live/miriam/miriam123/4212.ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Pilihan",HGTV
-http://104.218.60.68:83/a0w10NwSwz/35222020350823A324475658352020/13?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Pilihan",HGTV (TV)(1080)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53878?checkedby:iptvcat.net
 
 #EXTINF:-1   tvg-logo="https://i.imgur.com/u9uPPgo.jpg" group-title="group-title="Pilihan",RTM TV 1 (1080p)
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
@@ -217,20 +206,9 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Pilihan",ANIMAL PLANET
 http://mags.vip:2086/live/miriam/miriam123/72567.ts?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Pilihan",NAT GEO HD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/137345.ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Pilihan",NAT GEO WILD
-http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22569?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Pilihan",NAT GEO People
-http://plustlc.com:8080/live/huseyin61/24.10.2020/129635.ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Pilihan",Discovery Channel HD
-https://allvue.live:443/alan/alan/55929?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Pilihan",DISCOVERY TURBO XTRA
-https://allvue.live:443/alan/alan/488831?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Pilihan",H&h
-http://plustlc.com:8080/live/huseyin61/24.10.2020/129540.ts?checkedby:iptvcat.net
-
+#EXTINF:-1   tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="group-title="Pilihan",Discovery Home & Health +1 UK
+#EXTINF:-1   tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="group-title="Pilihan",HGTV +1 UK
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1869.m3u8
 
 
 
