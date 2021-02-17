@@ -191,6 +191,9 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4149
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4195
 
 _Pilihan_
+
+#EXTINF:-1, group-title="Pilihan",BBC Earth HD SE
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/2937.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan" tvg-id="" tvg-name"FashionTV ",FashionTV 
 https://warkop.xyz/m3u/fashiontv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan" tvg-id="" tvg-name"FashionTV ",FashionTV Midnight
