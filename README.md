@@ -194,6 +194,8 @@ _Pilihan_
 
 #EXTINF:-1, group-title="Pilihan",BBC Earth HD SE
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/2937.m3u8
+#EXTINF:-1  group-title="Pilihan",HGTV +1 UK
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1869.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan" tvg-id="" tvg-name"FashionTV ",FashionTV 
 https://warkop.xyz/m3u/fashiontv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan" tvg-id="" tvg-name"FashionTV ",FashionTV Midnight
@@ -202,9 +204,9 @@ https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_mid
 http://14.192.144.14:8000/play/a01n/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Fashion tv
 https://bozztv.com:443/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
-#EXTINF:-1, group-title="group-title="Pilihan",Nat Geo Wild HD US
+#EXTINF:-1 group-title="group-title="Pilihan",Nat Geo Wild HD US
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/7692.m3u8
-#EXTINF:-1, group-title="group-title="Pilihan",Nat Geographic HD US
+#EXTINF:-1 group-title="group-title="Pilihan",Nat Geographic HD US
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/7691.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.imgur.com/u9uPPgo.jpg" group-title="group-title="Pilihan",RTM TV 1 (1080p)
@@ -213,9 +215,21 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Pilihan",ANIMAL PLANET
 http://mags.vip:2086/live/miriam/miriam123/72567.ts?checkedby:iptvcat.net
-#EXTINF:-1   group-title="group-title="Pilihan",Discovery Home & Health +1 UK
-#EXTINF:-1   group-title="Pilihan",HGTV +1 UK
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1869.m3u8
+
+#EXTINF:-1 group-title="Pilihan",MSNBC HD (Web) US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/16058.m3u8
+#EXTINF:-1 group-title="Pilihan",Nat. Geo Wild HD VIP US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8949.m3u8
+#EXTINF:-1 group-title="Pilihan",Nat. Geographic HD VIP US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8948.m3u8
+#EXTINF:-1group-title="Pilihan",NBC Golf HD VIP US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8986.m3u8
+#EXTINF:-1 group-title="Pilihan",NBC News HD VIP US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8985.m3u8
+#EXTINF:-1 group-title="Pilihan",NBC San Diego HD VIP US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/10135.m3u8
+#EXTINF:-1 group-title="Pilihan",NBCSN HD VIP US
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8984.m3u8
 
 
 
