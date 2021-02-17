@@ -1,4 +1,30 @@
 _Champions League_
+#EXTINF:-1,group-title="Champions League"BT Sport 1 HD UK
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/370.m3u8
+#EXTINF:-1,group-title="Champions League"BT Sport 1 UK
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/369.m3u8
+#EXTINF:-1,group-title="Champions League"BT Sport 2 HD UK
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/368.m3u8
+#EXTINF:-1,group-title="Champions League"BT Sport 2 UK
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/367.m3u8
+#EXTINF:-1,group-title="Champions League"BT Sport 3 HD UK
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/366.m3u8
+#EXTINF:-1,group-title="Champions League"BT Sport 3 UK
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/365.m3u8
+#EXTINF:-1,group-title="Champions League"BT Sport ESPN HD UK
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1743.m3u8
+#EXTINF:-1,group-title="Champions League"BT Sport ESPN UK
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1819.m3u8
+#EXTINF:-1,group-title="Champions League"BT Sport Extra 1 UK
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1818.m3u8
+#EXTINF:-1,group-title="Champions League"BT Sport Extra 2 UK
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1817.m3u8
+#EXTINF:-1,group-title="Champions League"BT Sport Extra 3 UK
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1816.m3u8
+#EXTINF:-1 group-title="Champions League",BT Sport Extra 4 UK
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1815.m3u8
+#EXTINF:-1 group-title="Champions League",BT Sport Extra 5 UK
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1814.m3u8
 #EXTINF:-1 group-title="Champions League",Champion Tv 1
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion1
 #EXTINF:-1 group-title="Champions League",Champion Tv 2
