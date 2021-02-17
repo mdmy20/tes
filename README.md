@@ -192,7 +192,7 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4195
 
 _Pilihan_
 
-#EXTINF:-1, group-title="Pilihan",BBC Earth HD SE
+#EXTINF:-1 group-title="Pilihan",BBC Earth HD SE
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/2937.m3u8
 #EXTINF:-1  group-title="Pilihan",HGTV +1 UK
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1869.m3u8
@@ -200,9 +200,9 @@ http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/1869.m3u8
 https://warkop.xyz/m3u/fashiontv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan" tvg-id="" tvg-name"FashionTV ",FashionTV Midnight
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b2800000.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony BBC EarHD(setAuto)
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony BBC EarHD(setAuto)
 http://14.192.144.14:8000/play/a01n/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Fashion tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Fashion tv
 https://bozztv.com:443/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
 #EXTINF:-1 group-title="group-title="Pilihan",Nat Geo Wild HD US
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/7692.m3u8
@@ -213,9 +213,6 @@ http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/7691.m3u8
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="group-title="Pilihan",RTM TV 2 (1080p)
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Pilihan",ANIMAL PLANET
-http://mags.vip:2086/live/miriam/miriam123/72567.ts?checkedby:iptvcat.net
-
 #EXTINF:-1 group-title="Pilihan",MSNBC HD (Web) US
 http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/16058.m3u8
 #EXTINF:-1 group-title="Pilihan",Nat. Geo Wild HD VIP US
