@@ -167,7 +167,7 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4195
 https://warkop.xyz/m3u/fashiontv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan" tvg-id="" tvg-name"FashionTV ",FashionTV Midnight
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="LIFESTYLE" tvg-id="" tvg-name"HGTV ",HGTV 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="Pilihan" tvg-id="" tvg-name"HGTV ",HGTV 
 https://warkop.xyz/m3u/hgtv.m3u8
 #EXTINF:-1 tvg-logo="https://warkop.xyz/logo/lovenature.png" group-title="Pilihan", Love Nature 4K
 https://warkop.xyz/m3u/vidio-lovenature.m3u8
