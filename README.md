@@ -200,20 +200,6 @@ http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/163
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Arena
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/164
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SPORT TV +
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/825
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SPORT TV 1 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/826
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SPORT TV 2
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/831
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SPORT TV 3 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/832
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SPORT TV 4
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/837
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SPORT TV 5 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/838
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NOW Champions League
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3460
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",FOX Sport 1
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3545
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",FOX Sport 2
