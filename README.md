@@ -150,7 +150,7 @@ _Pilihan_
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Animal Planet
 http://stream.tvtap.live:8081/live/ap.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjI3OjA2IEFNJmhhc2hfdmFsdWU9aDh4S29lMm0xdFYvUEZQR2JZVDl5Zz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony BBC EarHD(setAuto)
-http://cdn.livenettv.info:80/eros/sonyearthhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjM3OjM0IEFNJmhhc2hfdmFsdWU9eHF0ZWtQb21XSWNaYWhYWXNBaHpyZz09JnZhbGlkbWludXRlcz0y
+http://dpasdl08.tth.cl:8745/eros/sonyearthhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjQ1OjAyIEFNJmhhc2hfdmFsdWU9YmlzN0lIYTNHVW5ERVIrQW42L0pEZz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",BBC Lifestyle
 https://nonton.site:8443/novi/novi123/37450
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",HGTV HD
@@ -159,8 +159,6 @@ http://stream.tvtap.live:8081/live/us-hgtv.stream/playlist.m3u8?wmsAuthSign=c2Vy
 http://stream.tvtap.live:8081/live/us-natgeowild.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjMwOjU1IEFNJmhhc2hfdmFsdWU9N0Q3UEhRL2pDV0VueFlPcWhnS3BxUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan" tvg-id="" tvg-name"FashionTV ",FashionTV Midnight
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b2800000.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony BBC EarHD(setAuto)
-http://14.192.144.14:8000/play/a01n/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Fashion tv
 https://bozztv.com:443/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
 https://nonton.site:8443/novi/novi123/36729
