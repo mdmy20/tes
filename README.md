@@ -150,7 +150,7 @@ _Pilihan_
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Animal Planet
 http://stream.tvtap.live:8081/live/ap.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjI3OjA2IEFNJmhhc2hfdmFsdWU9aDh4S29lMm0xdFYvUEZQR2JZVDl5Zz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony BBC EarHD(setAuto)
-http://dpasdl08.tth.cl:8745/eros/sonyearthhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjQ1OjAyIEFNJmhhc2hfdmFsdWU9YmlzN0lIYTNHVW5ERVIrQW42L0pEZz09JnZhbGlkbWludXRlcz0y
+http://alphabetagama.ddns.net/uk2020/bbcearthen/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjUzOjE5IEFNJmhhc2hfdmFsdWU9dG5DaGJUc3BzNnFkcFFMZUNzKzkrZz09JnZhbGlkbWludXRlcz0xMg==
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",BBC Lifestyle
 https://nonton.site:8443/novi/novi123/37450
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",HGTV HD
