@@ -150,7 +150,7 @@ _Pilihan_
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Animal Planet
 http://stream.tvtap.live:8081/live/ap.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjI3OjA2IEFNJmhhc2hfdmFsdWU9aDh4S29lMm0xdFYvUEZQR2JZVDl5Zz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony BBC EarHD(setAuto)
-http://14.192.144.14:8000/play/a01n/index.m3u8
+http://cdn.livenettv.info:80/eros/sonyearthhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjM3OjM0IEFNJmhhc2hfdmFsdWU9eHF0ZWtQb21XSWNaYWhYWXNBaHpyZz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",BBC Lifestyle
 https://nonton.site:8443/novi/novi123/37450
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",HGTV HD
