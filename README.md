@@ -3,7 +3,24 @@ _Champions League_
 https://nonton.site:8443/novi/novi123/38733
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",beIN_SPORTS
 https://nonton.site:8443/novi/novi123/38735
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Sony Ten 1 HD(setAuto)
+http://14.192.144.14:8000/play/a008/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Sony Ten 2 HD(setAuto)
+http://14.192.144.14:8000/play/a01s/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Sony Ten 3 HD(setAuto)
+http://14.192.144.14:8000/play/a00f/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Star Sport(setAuto)
+http://14.192.144.14:8000/play/a00a/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Star Sport(setAuto)
+http://14.192.144.14:8000/play/a007/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Star Sport(setAuto)
+http://14.192.144.14:8000/play/a01r/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Star Sport(setAuto)
+http://14.192.144.14:8000/play/a04u/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Star Sport(setAuto)
+http://14.192.144.14:8000/play/a006/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Star Sport(setAuto)
+http://14.192.144.14:8000/play/a01q/index.m3u8
 
 
 _Sport_
@@ -305,8 +322,12 @@ _Pilihan_
 https://nonton.site:8443/novi/novi123/38720
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",BBC EartHD
 https://nonton.site:8443/novi/novi123/38680
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="",BBC Lifestyle HD
+https://nonton.site:8443/novi/novi123/36766
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",HGTV HD
 https://nonton.site:8443/novi/novi123/38770
+#EXTINF:-1   group-title="Pilihan", Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan",Nat Geo Wild 
 http://stream.tvtap.live:8081/live/us-natgeowild.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjMwOjU1IEFNJmhhc2hfdmFsdWU9N0Q3UEhRL2pDV0VueFlPcWhnS3BxUT09JnZhbGlkbWludXRlcz0yMA==
 
