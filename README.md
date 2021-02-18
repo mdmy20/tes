@@ -1,26 +1,5 @@
 _Champions League_
-#EXTINF:-1 group-title="Champions League",Champion Tv 1
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion1
-#EXTINF:-1 group-title="Champions League",Champion Tv 2
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion2
-#EXTINF:-1 group-title="Champions League",Skynet Myanmar
-http://4digital.ddns.net:11223/ts/0
-#EXTINF:-1 group-title="Champions League",DE | Sky Sport 1 HD
-http://iptvnow.me:8080/jajaban/12345/91592
-#EXTINF:-1 group-title="Champions League",DE | Sky Sport 2 HD
-http://iptvnow.me:8080/jajaban/12345/91593
-#EXTINF:-1 group-title="Champions League",IN: Sony SIX HD
-http://iptvtree.net:8080/Line1051/f4fffd47/4853
-#EXTINF:-1  group-title="Champions League",SONY TEN 1 HD
-http://iptvtree.net:8080/Line1051/f4fffd47/74893
-#EXTINF:-1  group-title="Champions League",SONY TEN 2 HD
-http://iptvtree.net:8080/Line1051/f4fffd47/56190
-#EXTINF:-1  group-title="Champions League",SONY TEN 3 HD
-http://iptvtree.net:8080/Line1051/f4fffd47/56191
-#EXTINF:-1 group-title="Champions League",BT SPORT 2
-http://stream.streamhubtv.xyz:8080/HOME1/HOME1/48067?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Champions League",MY Astro bEIN MAX
-https://vewvew.com:8443/mamana/12345/227136
+
 
 
 
@@ -168,14 +147,14 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4195
 _Pilihan_
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",BBC Earth HD
-https://nonton.site:8443/novi/novi123/37449
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Animal Planet
+http://stream.tvtap.live:8081/live/ap.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjI3OjA2IEFNJmhhc2hfdmFsdWU9aDh4S29lMm0xdFYvUEZQR2JZVDl5Zz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony BBC EarHD(setAuto)
 http://14.192.144.14:8000/play/a01n/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",BBC Lifestyle
 https://nonton.site:8443/novi/novi123/37450
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",HGTV HD
-https://nonton.site:8443/novi/novi123/37416
+http://stream.tvtap.live:8081/live/us-hgtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjI0OjAzIEFNJmhhc2hfdmFsdWU9TEc0aUI1amJTN3ZtaCtGWlhVK0dRdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan" tvg-id="" tvg-name"FashionTV ",FashionTV 
 https://warkop.xyz/m3u/fashiontv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan" tvg-id="" tvg-name"FashionTV ",FashionTV Midnight
@@ -186,7 +165,7 @@ http://14.192.144.14:8000/play/a01n/index.m3u8
 https://bozztv.com:443/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
 https://nonton.site:8443/novi/novi123/36729
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Asia
-https://nonton.site:8443/novi/novi123/779
+http://stream.tvtap.live:8081/live/discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjI5OjA2IEFNJmhhc2hfdmFsdWU9L05TY0tnblpwSWl4WUxma0tOdVZ2UT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Channel HD
 https://nonton.site:8443/novi/novi123/165
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Science HD
