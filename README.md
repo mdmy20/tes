@@ -150,7 +150,7 @@ _Pilihan_
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Animal Planet
 http://stream.tvtap.live:8081/live/ap.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjI3OjA2IEFNJmhhc2hfdmFsdWU9aDh4S29lMm0xdFYvUEZQR2JZVDl5Zz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony BBC EarHD(setAuto)
-http://14.192.144.14:8000/play/a01n/index.m3u8
+http://dpasdl08.tth.cl:8745/eros/sonyearthhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6MDc6MjYgUE0maGFzaF92YWx1ZT1KWlpKclpwWGJFQTRrK253cHV6L2dRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",HGTV HD
 http://stream.tvtap.live:8081/live/us-hgtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjI0OjAzIEFNJmhhc2hfdmFsdWU9TEc0aUI1amJTN3ZtaCtGWlhVK0dRdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan",Nat Geo Wild 
