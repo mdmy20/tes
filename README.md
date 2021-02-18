@@ -1,8 +1,6 @@
 _Champions League_
 
 
-
-
 _Sport_
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PK" tvg-language="Urdu" tvg-logo="" tvg-url="" group-title="Sport",PTV Sports (720p)
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/playlist.m3u8
@@ -149,8 +147,8 @@ _Pilihan_
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Animal Planet
 http://stream.tvtap.live:8081/live/ap.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjI3OjA2IEFNJmhhc2hfdmFsdWU9aDh4S29lMm0xdFYvUEZQR2JZVDl5Zz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony BBC EarHD(setAuto)
-http://dpasdl08.tth.cl:8745/eros/sonyearthhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6MDc6MjYgUE0maGFzaF92YWx1ZT1KWlpKclpwWGJFQTRrK253cHV6L2dRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Sony BBC EartHD(setAuto)
+http://dpasdl08.tth.cl:8745/eros/sonyearthhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6MTc6NTMgUE0maGFzaF92YWx1ZT1OMHJ3aS8wNXhReXlPTURpTm5tOGl3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",HGTV HD
 http://stream.tvtap.live:8081/live/us-hgtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjI0OjAzIEFNJmhhc2hfdmFsdWU9TEc0aUI1amJTN3ZtaCtGWlhVK0dRdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",HGTV HD canada
