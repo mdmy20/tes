@@ -161,7 +161,7 @@ http://stream.tvtap.live:8081/live/discovery.stream/playlist.m3u8?wmsAuthSign=c2
 https://nonton.site:8443/novi/novi123/165
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",History
 http://stream.tvtap.live:8081/live/discoveryh.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDEyOjI0OjM3IFBNJmhhc2hfdmFsdWU9SVkxUU5SVlE2UG1aMXFVWlVyM0EzQT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Shed
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery 
 https://nonton.site:8443/novi/novi123/333
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Discovery Turbo
 http://stream.tvtap.live:8081/live/discoveryturbo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDEyOjI1OjM5IFBNJmhhc2hfdmFsdWU9UUxPVjg2Nmhrc0duY0dqa0xZMkx6QT09JnZhbGlkbWludXRlcz0yMA==
@@ -169,10 +169,10 @@ http://stream.tvtap.live:8081/live/discoveryturbo.stream/playlist.m3u8?wmsAuthSi
 https://nonton.site:8443/novi/novi123/8131
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",History HD
 https://nonton.site:8443/novi/novi123/718
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Lingua Channel
-https://nonton.site:8443/novi/novi123/14944
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Love Nature 4K
 https://nonton.site:8443/novi/novi123/36767
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",NBC
+http://stream.tvtap.live:8081/live/us-nbcback.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDEyOjMyOjU4IFBNJmhhc2hfdmFsdWU9MEdXY0tBQnZkY2VvSTlzVW5NZ2YvUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Nat Geo
 http://stream.tvtap.live:8081/live/natgeo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDEyOjI4OjI0IFBNJmhhc2hfdmFsdWU9UEpQUm9hS1EzclRReEN6NmdNQUEyQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Nat Geo People
@@ -183,10 +183,17 @@ http://stream.tvtap.live:8081/live/us-natgeowild.stream/playlist.m3u8?wmsAuthSig
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="group-title="Pilihan",RTM TV 2 (1080p)
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1   group-title="Pilihan",TLC
+http://stream.tvtap.live:8081/live/tlcuk.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDEyOjM1OjUyIFBNJmhhc2hfdmFsdWU9ZXRoaHUvemxISGJJOGU1eXlGWjVrUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1   group-title="Pilihan",USA NETWORK
+http://stream.tvtap.live:8081/live/us-usanet.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDEyOjM4OjA1IFBNJmhhc2hfdmFsdWU9UXJJYysxTUJIRmgreENreWIvVzliUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1   group-title="Pilihan",Us Syfy
+http://stream.tvtap.live:8081/live/us-syfy.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDEyOjM5OjA2IFBNJmhhc2hfdmFsdWU9SGY0MUtEUzk5YTJmdVlNTHg0K3Z3UT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1   group-title="Pilihan",Us Investigation
+http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDEyOjQwOjI3IFBNJmhhc2hfdmFsdWU9bDVPVGJEY09UT3BMWUV0MGl4R21CZz09JnZhbGlkbWludXRlcz0yMA==
 
 
 
-http://14.192.144.14:8000/play/a01n/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",Sony MAX HD(setAuto) 
 http://14.192.144.14:8000/play/a0gi/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia",BOO恐怖台
