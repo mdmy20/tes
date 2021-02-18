@@ -154,7 +154,7 @@ https://nonton.site:8443/novi/novi123/37449
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",HGTV HD
 http://stream.tvtap.live:8081/live/us-hgtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjI0OjAzIEFNJmhhc2hfdmFsdWU9TEc0aUI1amJTN3ZtaCtGWlhVK0dRdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",HGTV HD canada
-http://dyna.livenettv.sx:49310/hera/hgtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6MTA6MDkgUE0maGFzaF92YWx1ZT0zMkdFSldWaWZqamZkVms1SkxLd2hBPT0mdmFsaWRtaW51dGVzPTI=
+http://dpasdl08.tth.cl:8745/thana/hgtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDI6NDE6MzQgUE0maGFzaF92YWx1ZT10Q1p1TE9lUWtHUkgrWDlSQnpDeFdnPT0mdmFsaWRtaW51dGVzPTI=wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6MTA6MDkgUE0maGFzaF92YWx1ZT0zMkdFSldWaWZqamZkVms1SkxLd2hBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Pilihan",Nat Geo Wild 
 http://stream.tvtap.live:8081/live/us-natgeowild.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDExOjMwOjU1IEFNJmhhc2hfdmFsdWU9N0Q3UEhRL2pDV0VueFlPcWhnS3BxUT09JnZhbGlkbWludXRlcz0yMA==
 
