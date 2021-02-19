@@ -9,24 +9,6 @@ http://14.192.144.14:8000/play/a008/index.m3u8
 http://14.192.144.14:8000/play/a01s/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Sony Ten 3 HD(setAuto)
 http://14.192.144.14:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Champions League",beinsport 1 fr
-http://stream.tvtap.live:8081/live/fr-beinsport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6MzQ6NTAgUE0maGFzaF92YWx1ZT1oNkttdTRMWWNaNUFkcVhsUy9LK1FBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Champions League",beinsport 2 fr
-http://stream.tvtap.live:8081/live/fr-beinsport2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6MzY6MjYgUE0maGFzaF92YWx1ZT1CbkdkR0hQLzJFdXhCRnhNZzRlSTRnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Champions League",beinsport 3 fr
-http://stream.tvtap.live:8081/live/fr-beinsport3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6Mzc6NTQgUE0maGFzaF92YWx1ZT1mUmwyMXQvS3plTkhZRm41c2RTOGxBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Champions League",beinsport 12 Ar
-http://stream.tvtap.live:8081/live/bein12.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NDA6NDIgUE0maGFzaF92YWx1ZT1oa1JCeUhsZk9lVWM1bkNWajdoMVB3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Champions League",beinsport 11 Ar
-http://stream.tvtap.live:8081/live/bein11.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6Mzg6NDkgUE0maGFzaF92YWx1ZT1KNXV3N1R3bzliUjBhZHp3eWNJTXpnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Champions League",beinsport 10 Ar
-http://stream.tvtap.live:8081/live/bein10.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NDA6MDUgUE0maGFzaF92YWx1ZT1RNHg5Y2EvRTlSd2lLR3pTM1FQbmZRPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Champions League",BT SPORT 1
-http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NDM6MDIgUE0maGFzaF92YWx1ZT1wRkxNNVJKdS9VbnRrRVJuTy9MR21BPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Champions League",BT SPORT 2
-http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NDM6MzUgUE0maGFzaF92YWx1ZT1OMzVDUVB4TklhaHJ4b0QweUJsbkdRPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Champions League",BT SPORT 3
-http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NDQ6MTcgUE0maGFzaF92YWx1ZT00aStMK2daZGhRL2k0WEpIMDNJT2Z3PT0mdmFsaWRtaW51dGVzPTIw
 
 
 _Sport_
@@ -47,123 +29,33 @@ http://youriptv.tv:8080/MALIZIA/Nicetry8888/39452
 http://youriptv.tv:8080/MALIZIA/Nicetry8888/39453
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ASTRO ASSP4 HD
 http://youriptv.tv:8080/MALIZIA/Nicetry8888/39454
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",RTM 
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/163
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Arena
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/164
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",FOX Sport 1
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3545
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",FOX Sport 2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3546
+#EXTINF:-1 group-title="Sport",Sky Sports Premier League FHD
+http://tyciptv.site:8080/393e2766/c723f42a/263
+#EXTINF:-1 group-title="Sport",Sky Sports Arena FHD
+http://tyciptv.site:8080/393e2766/c723f42a/273425
+#EXTINF:-1 group-title="Sport",beIN Sports 10 HD
+http://tyciptv.site:8080/393e2766/c723f42a/276875
+#EXTINF:-1 tgroup-title="Sport",beIN Sports 11 HD
+http://tyciptv.site:8080/393e2766/c723f42a/192635
+#EXTINF:-1 group-title="Sport",beIN Sports 12 HD
+http://tyciptv.site:8080/393e2766/c723f42a/157396
+#EXTINF:-1 group-title="Sport",BT ESPN HD
+#EXTINF:-1 tgroup-title="Sport",BT Sport Sport 1 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/276908
+http://tyciptv.site:8080/393e2766/c723f42a/275073
+#EXTINF:-1 group-title="Sport",BT Sport 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/273
+#EXTINF:-1 group-title="Sport",BT Sport 3 HD
+http://tyciptv.site:8080/393e2766/c723f42a/28348
+#EXTINF:-1 group-title="Sport",BT Sport Extra 3 HD
+http://tyciptv.site:8080/393e2766/c723f42a/274017
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="Sport" tvg-id="" tvg-name"beIN Sport 1 ",beIN Sport 1 
 https://warkop.xyz/m3u/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="Sport" tvg-id="" tvg-name"beIN Sport 2 ",beIN Sport 2 
 https://warkop.xyz/m3u/bein2.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
-http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
-http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5+ 体育赛事
-http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5+ 体育赛事
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-count
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="QA" tvg-language="English" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" tvg-url="" group-title="Sport",beIN SPORTS XTRA (720p)
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3584
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",WWE
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3585
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",CCTV5
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3688
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",CCTV5plus
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3689
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NBC Golf
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3826
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",law and crime
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3827
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Msnbc
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3828
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Goltv
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3829
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",TVG
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3830
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Willow Cricket
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3831
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",wwe-network
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3859
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Fight network
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3890
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3917
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",IFC
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3918
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ESPN NEWS
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3919
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",CBS Sport
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3920
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Fight Box
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3921
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Fight Network
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3922
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Champions Leagueman
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3923
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Outdoor
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3924
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SEC Network
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3925
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ESPN 1
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3951
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ESPN 2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3952
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NBC Sport
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3953
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NBA TV US
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3954
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Fox Sport 1
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3955
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Fox Sport 2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3956
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Tennis
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3957
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NFL Network
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3958
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Golf
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3959
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",WWE
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3960
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",UFC PASS
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3961
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Willow
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3962
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NHL Network
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3963
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Bein SportUSA
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3964
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ESPN U
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3965
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NBA CA
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4053
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",TSN 2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4061
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",TSN 1
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4062
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Arena
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4149
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ARENA_HD
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4195
-
-_Pilihan
-
-_Sport_
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PK" tvg-language="Urdu" tvg-logo="" tvg-url="" group-title="Sport",PTV Sports (720p)
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-url="" group-title="Sport",Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Red Bull TV (540p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Red Bull TV (720p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8962.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="Sport",True Premier HD 1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
@@ -188,110 +80,6 @@ https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
 http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",RTM 
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/163
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Arena
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/164
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",FOX Sport 1
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3545
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",FOX Sport 2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3546
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="Sport" tvg-id="" tvg-name"beIN Sport 1 ",beIN Sport 1 
-https://warkop.xyz/m3u/bein1.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="Sport" tvg-id="" tvg-name"beIN Sport 2 ",beIN Sport 2 
-https://warkop.xyz/m3u/bein2.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
-http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
-http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5+ 体育赛事
-http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5+ 体育赛事
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-count
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="QA" tvg-language="English" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" tvg-url="" group-title="Sport",beIN SPORTS XTRA (720p)
-https://bein-plutolive-vo.akamaized.net/playlist.m3u8
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3584
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",WWE
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3585
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",CCTV5
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3688
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",CCTV5plus
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3689
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NBC Golf
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3826
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",law and crime
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3827
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Msnbc
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3828
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Goltv
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3829
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",TVG
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3830
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Willow Cricket
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3831
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",wwe-network
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3859
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Fight network
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3890
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3917
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",IFC
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3918
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ESPN NEWS
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3919
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",CBS Sport
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3920
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Fight Box
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3921
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Fight Network
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3922
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Champions Leagueman
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3923
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Outdoor
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3924
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",SEC Network
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3925
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ESPN 1
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3951
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ESPN 2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3952
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NBC Sport
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3953
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NBA TV US
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3954
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Fox Sport 1
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3955
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Fox Sport 2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3956
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Tennis
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3957
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NFL Network
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3958
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Golf
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3959
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",WWE
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3960
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",UFC PASS
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3961
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Willow
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3962
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NHL Network
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3963
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Bein SportUSA
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3964
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ESPN U
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3965
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",NBA CA
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4053
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",TSN 2
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4061
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",TSN 1
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4062
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Arena
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4149
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ARENA_HD
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4195
 
 _Pilihan_
 
@@ -299,7 +87,7 @@ _Pilihan_
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",Animal Planet
 https://nonton.site:8443/novi/novi123/38720
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",BBC EartHD
-http://globaltv.life:8880/7722/7722/39433
+https://nonton.site:8443/novi/novi123/38680
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="",BBC Lifestyle HD
 https://nonton.site:8443/novi/novi123/36766
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Pilihan",HGTV HD
