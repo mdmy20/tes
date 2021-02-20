@@ -96,24 +96,16 @@ http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="Sport",True Premier HD 2
-http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+http://160.119.77.https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="Sport",True Premier HD 3
-http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
-http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="Sport",True Premier HD 4
-http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
-http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="Sport",True Premier HD 5
-http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
-http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
-http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",BeinSport Hd1
 http://160.119.77.116:8081/iptv/hd-bein1.stream/chunks.m3u8
