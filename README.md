@@ -46,30 +46,26 @@ http://tyciptv.site:8080/393e2766/c723f42a/145720
 _Sport_
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PK" tvg-language="Urdu" tvg-logo="" tvg-url="" group-title="Sport",PTV Sports (720p)
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-url="" group-title="Sport",Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Red Bull TV (540p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Red Bull TV (720p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8962.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ASTRO ASSP HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39451
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ASTRO ASSP2 HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39452
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ASTRO ASSP3 HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39453
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",ASTRO ASSP4 HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39454
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Supersports 1
+http://tv.wakds.xyz:8080/pptvy/76937/120
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Supersports 2
+http://tv.wakds.xyz:8080/pptvy/76937/121
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Supersports 3
+http://tv.wakds.xyz:8080/pptvy/76937/122
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Supersports 4 
+http://tv.wakds.xyz:8080/pptvy/76937/123
 #EXTINF:-1 group-title="Sport",Sky Sports Premier League FHD
-http://tyciptv.site:8080/393e2766/c723f42a/263
+http://tv.wakds.xyz:8080/pptvy/76937/3580
 #EXTINF:-1 group-title="Sport",Sky Sports Arena FHD
 http://tyciptv.site:8080/393e2766/c723f42a/273425
 #EXTINF:-1 group-title="Sport",Sky Sports Football HD
-http://tyciptv.site:8080/393e2766/c723f42a/37178
-#EXTINF:-1 group-title="Sport",Sky 2 DE 
+http://tv.wakds.xyz:8080/pptvy/76937/3575
+#EXTINF:-1 group-title="Sport",Sky 2 DE
+http://tyciptv.site:8080/393e2766/c723f42a/273430
+#EXTINF:-1 group-title="Sport",Sky 2 DE
+http://tyciptv.site:8080/393e2766/c723f42a/273431 
 #EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK: Premier Sport 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sport",Premier Sport 1 HD
-http://tyciptv.site:8080/393e2766/c723f42a/1097
+http://tv.wakds.xyz:8080/pptvy/76937/4099
 #EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK: PREMIER SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sport",PREMIER SPORTS 2 FHD
 http://tyciptv.site:8080/393e2766/c723f42a/4723
 http://stream.tvtap.live:8081/live/de-skysport20.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIxIDg6NDQ6NTggQU0maGFzaF92YWx1ZT1mWnJVZlFzcG1KMnVuQU5oN3BDSWl3PT0mdmFsaWRtaW51dGVzPTIw 
@@ -81,14 +77,11 @@ http://tyciptv.site:8080/393e2766/c723f42a/192635
 http://tyciptv.site:8080/393e2766/c723f42a/157396
 #EXTINF:-1 group-title="Sport",BT ESPN HD
 #EXTINF:-1 tgroup-title="Sport",BT Sport Sport 1 FHD
-http://tyciptv.site:8080/393e2766/c723f42a/276908
-http://tyciptv.site:8080/393e2766/c723f42a/275073
+http://tv.wakds.xyz:8080/pptvy/76937/3917
 #EXTINF:-1 group-title="Sport",BT Sport 2 FHD
-http://tyciptv.site:8080/393e2766/c723f42a/273
+http://tv.wakds.xyz:8080/pptvy/76937/3915
 #EXTINF:-1 group-title="Sport",BT Sport 3 HD
-http://tyciptv.site:8080/393e2766/c723f42a/28348
-#EXTINF:-1 group-title="Sport",BT Sport Extra 3 HD
-http://tyciptv.site:8080/393e2766/c723f42a/274017
+http://tv.wakds.xyz:8080/pptvy/76937/3916
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="Sport" tvg-id="" tvg-name"beIN Sport 1 ",beIN Sport 1 
 https://warkop.xyz/m3u/bein1.m3u8
@@ -142,6 +135,13 @@ http://160.119.77.116:8081/iptv/hd-bein8.stream/chunks.m3u8
 http://160.119.77.116:8081/iptv/hd-bein9.stream/chunks.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",BeinSport Hd10
 http://160.119.77.116:8081/iptv/hd-bein10.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-url="" group-title="Sport",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Red Bull TV (540p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Red Bull TV (720p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+http://fastrunner.live:8080/live/81ha5vPTGJ/T9luDKtbmH/8962.m3u8
 _Pilihan_
 
 
