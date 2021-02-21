@@ -80,6 +80,7 @@ http://tyciptv.site:8080/393e2766/c723f42a/192635
 #EXTINF:-1 group-title="Sport",beIN Sports 12 HD
 http://tyciptv.site:8080/393e2766/c723f42a/157396
 #EXTINF:-1 group-title="Sport",BT ESPN HD
+http://safelive.hjkm.info:11991/mars2/btsports1hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDc6MTk6MTQgUE0maGFzaF92YWx1ZT04citsMjdaL2Q4STNneGRobGJEYkVRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tgroup-title="Sport",BT Sport Sport 1 FHD
 http://tv.wakds.xyz:8080/pptvy/76937/3917
 #EXTINF:-1 group-title="Sport",BT Sport 2 FHD
