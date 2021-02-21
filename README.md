@@ -49,7 +49,7 @@ https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/pla
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="Sport",True Premier HD 1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="Sport",True Premier HD 2
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+http://iptvlink.ga:8888/live/iptvlink/bola/58.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Supersports 1
 http://tv.wakds.xyz:8080/pptvy/76937/120
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sport",Supersports 2
