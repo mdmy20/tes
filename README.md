@@ -6,7 +6,7 @@ https://nonton.site:8443/novi/novi123/38735
 #EXTINF:-1 group-title="Champions League",beIN Sports 10 HD
 http://tyciptv.site:8080/393e2766/c723f42a/276875
 #EXTINF:-1 tgroup-title="Champions League",beIN Sports 11 HD
-http://tyciptv.site:8080/393e2766/c723f42a/192635
+http://livezer0.hjkm.info:11991/mercury/beinsports11/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDc6MTA6MjYgUE0maGFzaF92YWx1ZT1ZRUJ0K3hLaUtMQTllTlpJTitCL0lBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 group-title="Champions League",beIN Sports 12 HD
 http://tyciptv.site:8080/393e2766/c723f42a/157396
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Champions League",Sony Ten 1 HD(setAuto)
